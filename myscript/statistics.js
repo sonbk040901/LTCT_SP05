@@ -9,13 +9,13 @@ class Statistics {
   async render() {
     this.#searchOptions.update();
     let details;
-    let [doanhthu, tongvon] = await data
+    let [doanhthu, tongvon] = await data1
       .getTong({
         isMonth: this.#searchOptions.isMonth,
         time: this.#searchOptions.time,
       })
       .then((ar) => {
-        details = data.getDetails();
+        details = data1.getDetails();
         for (const key in details) {
           let arr = details[key];
           let tongdoanhthu = 0,
