@@ -11,7 +11,7 @@ function number_format(number, decimals, dec_point, thousands_sep) {
     sep = (typeof thousands_sep === 'undefined') ? ',' : thousands_sep,
     dec = (typeof dec_point === 'undefined') ? '.' : dec_point,
     s = '',
-    toFixedFix = function(n, prec) {
+    toFixedFix = function (n, prec) {
       var k = Math.pow(10, prec);
       return '' + Math.round(n * k) / k;
     };
@@ -28,9 +28,11 @@ function number_format(number, decimals, dec_point, thousands_sep) {
 }
 
 // Bar Chart Example
+var data = [42105, 20312, 35232, 17841, 20009, 4984];
+data.sort(function(a, b){return b - a});
 var ctx = document.getElementById("myBarChart");
 var myBarChart = new Chart(ctx, {
-  type: 'bar',
+  type: 'horizontalBar',
   data: {
     labels: ["January", "February", "March", "April", "May", "June"],
     datasets: [{
@@ -38,7 +40,7 @@ var myBarChart = new Chart(ctx, {
       backgroundColor: "#4e73df",
       hoverBackgroundColor: "#2e59d9",
       borderColor: "#4e73df",
-      data: [4215, 5312, 61232, 7841, 9899.21, 14984],
+      data: data,
     }],
   },
   options: {
@@ -52,7 +54,7 @@ var myBarChart = new Chart(ctx, {
       }
     },
     scales: {
-      xAxes: [{
+      yAxes: [{
         time: {
           unit: 'month'
         },
@@ -61,18 +63,18 @@ var myBarChart = new Chart(ctx, {
           drawBorder: false
         },
         ticks: {
-          maxTicksLimit: 6
+          maxTicksLimit: 10
         },
         maxBarThickness: 25,
       }],
-      yAxes: [{
+      xAxes: [{
         ticks: {
           min: 0,
-          max: 15000,
-          maxTicksLimit: 5,
+          max: 50000,
+          maxTicksLimit: 10,
           padding: 10,
           // Include a dollar sign in the ticks
-          callback: function(value, index, values) {
+          callback: function (value, index, values) {
             return '$' + number_format(value);
           }
         },
@@ -101,9 +103,9 @@ var myBarChart = new Chart(ctx, {
       displayColors: false,
       caretPadding: 10,
       callbacks: {
-        label: function(tooltipItem, chart) {
+        label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ': $' + number_format(tooltipItem.yLabel);
+          return datasetLabel + ': $' + number_format(tooltipItem.xLabel);
         }
       }
     },

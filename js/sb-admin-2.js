@@ -1,6 +1,50 @@
+// (function showDetail() {
+//   if (document.getElementById('incomeRadio').checked) {
+
+//     // $("#TableWithProduct").removeClass('d-none');
+
+//   } else if (document.getElementById('productRadio').checked) {
+//     $("#ChartWithProduct").removeClass('d-none');
+//     $("#ChartWithIncome").addClass('d-none');
+//     $("#TableWithIncome").removeClass('d-none');
+//     // $("#TableWithProduct").addClass('d-none');
+//   } else {
+//     $("#ChartWithProduct").addClass('d-none');
+//     $("#ChartWithIncome").addClass('d-none');
+//     $("#TableWithIncome").addClass('d-none');
+//   }
+// })
+const form = document.querySelector("form");
+
+form.addEventListener(
+  "submit",
+  (event) => {
+    const data = new FormData(form);
+    let output = "";
+    for (const entry of data) {
+      output = `${output}${entry[1]}`;
+    }
+    if (output == "incomeRadio") {
+      $("#ChartWithProduct").addClass('d-none');
+      $("#ChartWithIncome").removeClass('d-none');
+      $("#TableWithIncome").removeClass('d-none');
+      $("#TableWithProduct").addClass('d-none');
+    } else {
+      $("#ChartWithProduct").removeClass('d-none');
+      $("#ChartWithIncome").addClass('d-none');
+      $("#TableWithIncome").addClass('d-none');
+      $("#TableWithProdcut").removeClass('d-none');
+    }
+
+    event.preventDefault();
+  },
+  false
+);
 (function ($) {
   "use strict"; // Start of use strict
-
+  $("#ChartWithProduct").addClass('d-none');
+  $("#ChartWithIncome").addClass('d-none');
+  $("#TableWithIncome").addClass('d-none');
   // Toggle the side navigation
   $("#sidebarToggle, #sidebarToggleTop").on('click', function (e) {
     $("body").toggleClass("sidebar-toggled");
@@ -9,7 +53,6 @@
       $('.sidebar .collapse').collapse('hide');
     };
   });
-  $('#datetimepicker').data("DateTimePicker").FUNCTION()
   // Close any open menu accordions when window is resized below 768px
   $(window).resize(function () {
     if ($(window).width() < 768) {

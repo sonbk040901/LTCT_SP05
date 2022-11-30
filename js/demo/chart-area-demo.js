@@ -34,7 +34,7 @@ var myChart = new Chart(ctx, {
   data: {
     labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
     datasets: [{
-          label: 'Series 1', // Name the series
+          label: 'Doanh thu', // Name the series
           data: [500,	50,	2424,	14040,	14141,	4111,	4544,	47,	5555, 6811,3300], // Specify the data values array
           fill: false,
           borderColor: '#2196f3', // Add custom color border (Line)
@@ -42,7 +42,7 @@ var myChart = new Chart(ctx, {
           borderWidth: 1 // Specify bar border width
       },
                 {
-          label: 'Series 2', // Name the series
+          label: 'Vốn', // Name the series
           data: [1288,	88942,	44545,	7588,	99,	242,	1417,	5504,	75, 457,3434,1232], // Specify the data values array
           fill: false,
           borderColor: '#4CAF50', // Add custom color border (Line)
