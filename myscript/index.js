@@ -1,4 +1,4 @@
-const searchBtn = document.getElementById("search-btn");
+const searchBtn = document.getElementById("searchButton");
 let o = document.getElementById("time-opt");
 o.addEventListener("change", (e) => {
   let ipMonth = document.getElementById("input-month");
