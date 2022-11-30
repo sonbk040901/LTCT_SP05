@@ -19,6 +19,6 @@ function search(event) {
   statistics.render();
 }
 
-data.getData().then((data1) => {
+data1.getData().then((data1) => {
   statistics.render();
 });
