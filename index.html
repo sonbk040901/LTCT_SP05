@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-
+    <link rel="icon" href="img/logo.png" type="image/png" sizes="">
     <title>QUAN LY DOANH THU</title>
 
     <!-- Custom fonts for this template-->
@@ -32,8 +32,8 @@
 
     <!-- Begin Page Content -->
     <div class="container-fluid">
-        <div class="d-sm-flex align-items-center justify-content-between">
-            <h1 class="h3 mb-0 text-gray-800">Báo cáo doanh thu</h1>
+        <div class="d-sm-flex align-items-center justify-content-center">
+            <h1 class="h3 text-gray-800 m-2 text-uppercase font-weight-bold">Báo cáo doanh thu</h1>
         </div>
         <!-- Page Heading -->
 
@@ -48,7 +48,7 @@
                             <!-- <div class="input-group date" id="datetimepicker">
                                 <input type="date" class="form-control">
                             </div> -->
-                            <select class="form-control">
+                            <select id="time-opt" class="form-control">
                                 <!-- <option selected></option> -->
                                 <option value="1">Báo cáo theo tháng</option>
                                 <option value="2">Báo cáo theo năm</option>
@@ -59,7 +59,11 @@
                         <label for="date" class="col-sm-4 col-form-label ">Thời gian</label>
                         <div class="col-sm-8">
                             <div class="input-group date" id="datetimepicker">
-                                <input type="month" class="form-control">
+                                <input id="input-month" type="month" class="form-control" value="2022-01">
+                                <select id="input-year" class="form-control d-none">
+                                    <option value="2021">2021</option>
+                                    <option value="2022">2022</option>
+                                </select>
                             </div>
 
                         </div>
@@ -77,8 +81,14 @@
                             <input type="radio" name="options" id="productRadio" value="productRadio"autocomplete="off" checked > Sản phẩm
                         </label>
                     </div>
+
                     <button type="submit" class="btn btn-primary" id="searchButton" name="submit" onclick="showDetail()"><i class="fas fa-search
-                                        fa-sm text-white-50"></i> Tim kiếm</a></button>
+                                        fa-sm text-white-50"></i> Tìm kiếm</a></button>
+
+ <!--                    <button onclick="return false" id="search-btn" type="submit" class="btn btn-primary"
+                        name="generate"><i class="fas fa-search
+                                        fa-sm text-white-50"></i> Tìm kiếm</button>  -->
+
                 </div>
             </div>
         </form>
@@ -94,7 +104,10 @@
                             <div class="col mr-2">
                                 <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
                                     Doanh thu</div>
-                                <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800"><span
+                                        style="transition: all 2s linear;" id="doanhthu">0</span>
+                                    VND
+                                </div>
                             </div>
                             <div class="col-auto">
                                 <i class="fas fa-calendar fa-2x text-gray-300"></i>
@@ -112,7 +125,8 @@
                             <div class="col mr-2">
                                 <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
                                     Tổng vốn</div>
-                                <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="tongvon">0</span> VND
+                                </div>
                             </div>
                             <div class="col-auto">
                                 <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
@@ -130,7 +144,8 @@
                             <div class="col mr-2">
                                 <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">
                                     Lợi nhuận</div>
-                                <div class="h5 mb-0 font-weight-bold text-gray-800">0</div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800"><span id="loinhuan">0</span> VND
+                                </div>
                             </div>
                             <div class="col-auto">
                                 <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
@@ -147,7 +162,8 @@
                         <div class="row no-gutters align-items-center">
                             <div class="col mr-2">
                                 <div class="text-xs font-weight-bold text-info text-uppercase mb-1">
-                                    So với cùng kì tháng trước</div>
+                                    <span id="sovoi">So với cùng kì tháng trước</span>
+                                </div>
                                 <div class="row no-gutters align-items-center">
                                     <div class="col-auto">
                                         <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">190%</div>
@@ -782,7 +798,17 @@
     <!-- Page level custom scripts -->
     <script src="js/demo/chart-area-demo.js"></script>
     <script src="js/demo/chart-bar-demo.js"></script>
-
+    <script src="myscript/initialize.js">
+    </script>
+    <script src="myscript/data.js">
+    </script>
+    <script src="myscript/searchOptions.js">
+    </script>
+    <script src="myscript/statistics.js">
+    </script>
+    <script src="myscript/index.js">
+    </script>
+    <script src="myscript/animate.js"></script>
 </body>
 
 </html>
