@@ -1,0 +1,7002 @@
+[
+    {
+        "thoigian": "2022/10/18",
+        "soluongsanpham": 69,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 76965000,
+        "tongvon": 41429000
+    },
+    {
+        "thoigian": "2022/06/30",
+        "soluongsanpham": 56,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 61084000,
+        "tongvon": 43682000
+    },
+    {
+        "thoigian": "2022/11/05",
+        "soluongsanpham": 74,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 79975000,
+        "tongvon": 47400000
+    },
+    {
+        "thoigian": "2022/01/08",
+        "soluongsanpham": 75,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 62306000,
+        "tongvon": 48885000
+    },
+    {
+        "thoigian": "2022/05/18",
+        "soluongsanpham": 65,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62684000,
+        "tongvon": 46829000
+    },
+    {
+        "thoigian": "2022/05/30",
+        "soluongsanpham": 53,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 73527000,
+        "tongvon": 42344000
+    },
+    {
+        "thoigian": "2022/09/08",
+        "soluongsanpham": 77,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71864000,
+        "tongvon": 43633000
+    },
+    {
+        "thoigian": "2022/08/13",
+        "soluongsanpham": 72,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 68201000,
+        "tongvon": 40454000
+    },
+    {
+        "thoigian": "2022/02/15",
+        "soluongsanpham": 56,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 72490000,
+        "tongvon": 43890000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 75,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61937000,
+        "tongvon": 49352000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 68,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 72637000,
+        "tongvon": 43524000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 78933000,
+        "tongvon": 44204000
+    },
+    {
+        "thoigian": "2022/08/13",
+        "soluongsanpham": 55,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 64478000,
+        "tongvon": 44730000
+    },
+    {
+        "thoigian": "2022/03/23",
+        "soluongsanpham": 51,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 78724000,
+        "tongvon": 46101000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 52,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 74685000,
+        "tongvon": 48407000
+    },
+    {
+        "thoigian": "2022/06/23",
+        "soluongsanpham": 66,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 73316000,
+        "tongvon": 44114000
+    },
+    {
+        "thoigian": "2022/11/16",
+        "soluongsanpham": 62,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 68148000,
+        "tongvon": 45702000
+    },
+    {
+        "thoigian": "2022/03/19",
+        "soluongsanpham": 70,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 62181000,
+        "tongvon": 45155000
+    },
+    {
+        "thoigian": "2022/06/26",
+        "soluongsanpham": 57,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 62264000,
+        "tongvon": 41526000
+    },
+    {
+        "thoigian": "2022/08/28",
+        "soluongsanpham": 74,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 68556000,
+        "tongvon": 43323000
+    },
+    {
+        "thoigian": "2022/01/23",
+        "soluongsanpham": 79,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 65731000,
+        "tongvon": 45645000
+    },
+    {
+        "thoigian": "2022/07/03",
+        "soluongsanpham": 68,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 66937000,
+        "tongvon": 47490000
+    },
+    {
+        "thoigian": "2022/11/01",
+        "soluongsanpham": 73,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 66134000,
+        "tongvon": 44069000
+    },
+    {
+        "thoigian": "2022/03/28",
+        "soluongsanpham": 58,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 66872000,
+        "tongvon": 42354000
+    },
+    {
+        "thoigian": "2021/12/07",
+        "soluongsanpham": 50,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 65540000,
+        "tongvon": 41663000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 62,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69847000,
+        "tongvon": 42246000
+    },
+    {
+        "thoigian": "2022/06/01",
+        "soluongsanpham": 73,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 67171000,
+        "tongvon": 40225000
+    },
+    {
+        "thoigian": "2022/02/17",
+        "soluongsanpham": 69,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 72801000,
+        "tongvon": 40659000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 62,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 75484000,
+        "tongvon": 46678000
+    },
+    {
+        "thoigian": "2022/10/22",
+        "soluongsanpham": 52,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 66719000,
+        "tongvon": 47484000
+    },
+    {
+        "thoigian": "2022/03/23",
+        "soluongsanpham": 80,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 72549000,
+        "tongvon": 41570000
+    },
+    {
+        "thoigian": "2022/02/13",
+        "soluongsanpham": 64,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 77786000,
+        "tongvon": 40954000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 58,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 76689000,
+        "tongvon": 40209000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 59,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 62587000,
+        "tongvon": 43363000
+    },
+    {
+        "thoigian": "2022/01/15",
+        "soluongsanpham": 66,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 66211000,
+        "tongvon": 43267000
+    },
+    {
+        "thoigian": "2022/11/06",
+        "soluongsanpham": 57,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 74175000,
+        "tongvon": 49447000
+    },
+    {
+        "thoigian": "2022/10/15",
+        "soluongsanpham": 59,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 71701000,
+        "tongvon": 43447000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 68,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 66163000,
+        "tongvon": 48746000
+    },
+    {
+        "thoigian": "2022/10/11",
+        "soluongsanpham": 57,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 73391000,
+        "tongvon": 46743000
+    },
+    {
+        "thoigian": "2022/01/17",
+        "soluongsanpham": 72,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 79382000,
+        "tongvon": 41580000
+    },
+    {
+        "thoigian": "2022/05/24",
+        "soluongsanpham": 64,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 63657000,
+        "tongvon": 49514000
+    },
+    {
+        "thoigian": "2022/04/18",
+        "soluongsanpham": 79,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 76370000,
+        "tongvon": 46519000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 76,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 79892000,
+        "tongvon": 45844000
+    },
+    {
+        "thoigian": "2021/12/07",
+        "soluongsanpham": 55,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 61582000,
+        "tongvon": 47862000
+    },
+    {
+        "thoigian": "2022/09/08",
+        "soluongsanpham": 58,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 61365000,
+        "tongvon": 45125000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 68,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 65619000,
+        "tongvon": 47675000
+    },
+    {
+        "thoigian": "2022/07/27",
+        "soluongsanpham": 65,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 67117000,
+        "tongvon": 45531000
+    },
+    {
+        "thoigian": "2022/05/18",
+        "soluongsanpham": 61,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 66280000,
+        "tongvon": 48755000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 73,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 74935000,
+        "tongvon": 40634000
+    },
+    {
+        "thoigian": "2022/11/21",
+        "soluongsanpham": 71,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 64488000,
+        "tongvon": 44042000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 69,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 79043000,
+        "tongvon": 49993000
+    },
+    {
+        "thoigian": "2022/03/26",
+        "soluongsanpham": 71,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 68934000,
+        "tongvon": 45261000
+    },
+    {
+        "thoigian": "2022/10/01",
+        "soluongsanpham": 64,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 76838000,
+        "tongvon": 48057000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 66,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70698000,
+        "tongvon": 47711000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 64,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 67866000,
+        "tongvon": 46543000
+    },
+    {
+        "thoigian": "2022/06/25",
+        "soluongsanpham": 68,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 64947000,
+        "tongvon": 45401000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 77,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 73673000,
+        "tongvon": 48691000
+    },
+    {
+        "thoigian": "2022/11/13",
+        "soluongsanpham": 53,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 73003000,
+        "tongvon": 48753000
+    },
+    {
+        "thoigian": "2022/07/02",
+        "soluongsanpham": 71,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 67685000,
+        "tongvon": 47062000
+    },
+    {
+        "thoigian": "2022/08/21",
+        "soluongsanpham": 73,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 61633000,
+        "tongvon": 43595000
+    },
+    {
+        "thoigian": "2022/06/09",
+        "soluongsanpham": 64,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61126000,
+        "tongvon": 46166000
+    },
+    {
+        "thoigian": "2022/01/29",
+        "soluongsanpham": 67,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 68297000,
+        "tongvon": 40299000
+    },
+    {
+        "thoigian": "2022/07/26",
+        "soluongsanpham": 50,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78181000,
+        "tongvon": 49041000
+    },
+    {
+        "thoigian": "2022/11/26",
+        "soluongsanpham": 63,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 78711000,
+        "tongvon": 47443000
+    },
+    {
+        "thoigian": "2022/05/16",
+        "soluongsanpham": 76,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67386000,
+        "tongvon": 46826000
+    },
+    {
+        "thoigian": "2022/11/11",
+        "soluongsanpham": 66,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 77118000,
+        "tongvon": 47766000
+    },
+    {
+        "thoigian": "2022/11/15",
+        "soluongsanpham": 73,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 74954000,
+        "tongvon": 46934000
+    },
+    {
+        "thoigian": "2022/10/24",
+        "soluongsanpham": 60,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 64368000,
+        "tongvon": 47671000
+    },
+    {
+        "thoigian": "2022/10/08",
+        "soluongsanpham": 68,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 64193000,
+        "tongvon": 40108000
+    },
+    {
+        "thoigian": "2022/02/01",
+        "soluongsanpham": 56,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 61127000,
+        "tongvon": 46647000
+    },
+    {
+        "thoigian": "2022/07/01",
+        "soluongsanpham": 58,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61461000,
+        "tongvon": 47255000
+    },
+    {
+        "thoigian": "2022/10/18",
+        "soluongsanpham": 65,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 74658000,
+        "tongvon": 47660000
+    },
+    {
+        "thoigian": "2022/02/24",
+        "soluongsanpham": 69,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 70362000,
+        "tongvon": 48010000
+    },
+    {
+        "thoigian": "2022/01/28",
+        "soluongsanpham": 67,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 68984000,
+        "tongvon": 45121000
+    },
+    {
+        "thoigian": "2021/12/02",
+        "soluongsanpham": 59,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64952000,
+        "tongvon": 42965000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 60,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 68448000,
+        "tongvon": 46410000
+    },
+    {
+        "thoigian": "2022/06/21",
+        "soluongsanpham": 70,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 61231000,
+        "tongvon": 44043000
+    },
+    {
+        "thoigian": "2021/12/05",
+        "soluongsanpham": 70,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 74759000,
+        "tongvon": 46529000
+    },
+    {
+        "thoigian": "2022/04/01",
+        "soluongsanpham": 55,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 78850000,
+        "tongvon": 42047000
+    },
+    {
+        "thoigian": "2022/10/27",
+        "soluongsanpham": 63,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 64681000,
+        "tongvon": 49595000
+    },
+    {
+        "thoigian": "2022/11/04",
+        "soluongsanpham": 51,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 74054000,
+        "tongvon": 45687000
+    },
+    {
+        "thoigian": "2022/01/29",
+        "soluongsanpham": 53,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 65254000,
+        "tongvon": 42476000
+    },
+    {
+        "thoigian": "2022/03/26",
+        "soluongsanpham": 77,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 71511000,
+        "tongvon": 46075000
+    },
+    {
+        "thoigian": "2022/11/10",
+        "soluongsanpham": 58,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 72901000,
+        "tongvon": 45659000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 75,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 70103000,
+        "tongvon": 47632000
+    },
+    {
+        "thoigian": "2022/10/25",
+        "soluongsanpham": 60,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64889000,
+        "tongvon": 44745000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 76,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67802000,
+        "tongvon": 43139000
+    },
+    {
+        "thoigian": "2022/11/26",
+        "soluongsanpham": 51,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78251000,
+        "tongvon": 48599000
+    },
+    {
+        "thoigian": "2022/01/08",
+        "soluongsanpham": 58,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 77321000,
+        "tongvon": 44381000
+    },
+    {
+        "thoigian": "2022/10/18",
+        "soluongsanpham": 54,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 60743000,
+        "tongvon": 43638000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 78,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 62829000,
+        "tongvon": 46071000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 52,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 79545000,
+        "tongvon": 45058000
+    },
+    {
+        "thoigian": "2022/10/03",
+        "soluongsanpham": 52,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 62486000,
+        "tongvon": 46378000
+    },
+    {
+        "thoigian": "2022/05/30",
+        "soluongsanpham": 65,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77022000,
+        "tongvon": 44064000
+    },
+    {
+        "thoigian": "2022/04/22",
+        "soluongsanpham": 78,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 76516000,
+        "tongvon": 48139000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 80,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62538000,
+        "tongvon": 47123000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 72,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 67544000,
+        "tongvon": 48383000
+    },
+    {
+        "thoigian": "2021/12/13",
+        "soluongsanpham": 67,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 62080000,
+        "tongvon": 48494000
+    },
+    {
+        "thoigian": "2022/04/16",
+        "soluongsanpham": 77,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 77684000,
+        "tongvon": 42497000
+    },
+    {
+        "thoigian": "2022/03/13",
+        "soluongsanpham": 78,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 60190000,
+        "tongvon": 42815000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 50,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 65754000,
+        "tongvon": 47308000
+    },
+    {
+        "thoigian": "2022/01/02",
+        "soluongsanpham": 68,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 66816000,
+        "tongvon": 49056000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 76,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 77268000,
+        "tongvon": 48551000
+    },
+    {
+        "thoigian": "2022/09/24",
+        "soluongsanpham": 70,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66337000,
+        "tongvon": 46938000
+    },
+    {
+        "thoigian": "2021/12/18",
+        "soluongsanpham": 52,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62947000,
+        "tongvon": 45916000
+    },
+    {
+        "thoigian": "2022/03/16",
+        "soluongsanpham": 75,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 68890000,
+        "tongvon": 42321000
+    },
+    {
+        "thoigian": "2022/05/29",
+        "soluongsanpham": 63,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 65127000,
+        "tongvon": 43125000
+    },
+    {
+        "thoigian": "2022/09/03",
+        "soluongsanpham": 80,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 75063000,
+        "tongvon": 42319000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 55,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 71427000,
+        "tongvon": 42676000
+    },
+    {
+        "thoigian": "2022/01/31",
+        "soluongsanpham": 78,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 76443000,
+        "tongvon": 42246000
+    },
+    {
+        "thoigian": "2022/02/08",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 64103000,
+        "tongvon": 43570000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 69,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 73695000,
+        "tongvon": 47281000
+    },
+    {
+        "thoigian": "2022/03/19",
+        "soluongsanpham": 65,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 65299000,
+        "tongvon": 40768000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 50,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 74391000,
+        "tongvon": 43716000
+    },
+    {
+        "thoigian": "2022/11/05",
+        "soluongsanpham": 61,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 65351000,
+        "tongvon": 45709000
+    },
+    {
+        "thoigian": "2022/08/27",
+        "soluongsanpham": 55,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 77538000,
+        "tongvon": 45963000
+    },
+    {
+        "thoigian": "2021/11/30",
+        "soluongsanpham": 51,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63222000,
+        "tongvon": 45456000
+    },
+    {
+        "thoigian": "2022/03/23",
+        "soluongsanpham": 52,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 69328000,
+        "tongvon": 40222000
+    },
+    {
+        "thoigian": "2022/01/21",
+        "soluongsanpham": 54,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 65635000,
+        "tongvon": 49165000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 70,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 70943000,
+        "tongvon": 41708000
+    },
+    {
+        "thoigian": "2022/09/27",
+        "soluongsanpham": 55,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 73581000,
+        "tongvon": 40930000
+    },
+    {
+        "thoigian": "2022/06/02",
+        "soluongsanpham": 72,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 75970000,
+        "tongvon": 42267000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 54,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 61577000,
+        "tongvon": 42348000
+    },
+    {
+        "thoigian": "2022/04/17",
+        "soluongsanpham": 51,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 60778000,
+        "tongvon": 41477000
+    },
+    {
+        "thoigian": "2021/12/30",
+        "soluongsanpham": 74,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 63612000,
+        "tongvon": 48425000
+    },
+    {
+        "thoigian": "2022/10/19",
+        "soluongsanpham": 70,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 74677000,
+        "tongvon": 44384000
+    },
+    {
+        "thoigian": "2022/02/10",
+        "soluongsanpham": 71,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 76005000,
+        "tongvon": 49602000
+    },
+    {
+        "thoigian": "2022/07/21",
+        "soluongsanpham": 64,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 65589000,
+        "tongvon": 44213000
+    },
+    {
+        "thoigian": "2021/12/22",
+        "soluongsanpham": 71,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 75057000,
+        "tongvon": 46271000
+    },
+    {
+        "thoigian": "2022/06/08",
+        "soluongsanpham": 74,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 63959000,
+        "tongvon": 45307000
+    },
+    {
+        "thoigian": "2022/06/22",
+        "soluongsanpham": 58,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 63841000,
+        "tongvon": 45311000
+    },
+    {
+        "thoigian": "2022/04/28",
+        "soluongsanpham": 60,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 62897000,
+        "tongvon": 44793000
+    },
+    {
+        "thoigian": "2022/01/19",
+        "soluongsanpham": 58,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 64139000,
+        "tongvon": 48541000
+    },
+    {
+        "thoigian": "2022/06/13",
+        "soluongsanpham": 79,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 63376000,
+        "tongvon": 46589000
+    },
+    {
+        "thoigian": "2022/02/04",
+        "soluongsanpham": 67,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 68894000,
+        "tongvon": 42307000
+    },
+    {
+        "thoigian": "2021/12/29",
+        "soluongsanpham": 53,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 63025000,
+        "tongvon": 48576000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 52,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 62172000,
+        "tongvon": 41020000
+    },
+    {
+        "thoigian": "2022/02/06",
+        "soluongsanpham": 53,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 75337000,
+        "tongvon": 40489000
+    },
+    {
+        "thoigian": "2022/04/27",
+        "soluongsanpham": 67,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 78900000,
+        "tongvon": 45839000
+    },
+    {
+        "thoigian": "2022/04/28",
+        "soluongsanpham": 51,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 74270000,
+        "tongvon": 41487000
+    },
+    {
+        "thoigian": "2022/08/05",
+        "soluongsanpham": 58,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66499000,
+        "tongvon": 45262000
+    },
+    {
+        "thoigian": "2022/02/10",
+        "soluongsanpham": 71,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 70608000,
+        "tongvon": 46198000
+    },
+    {
+        "thoigian": "2021/12/12",
+        "soluongsanpham": 71,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 64534000,
+        "tongvon": 42509000
+    },
+    {
+        "thoigian": "2022/04/18",
+        "soluongsanpham": 66,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 69326000,
+        "tongvon": 43614000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 66,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 76517000,
+        "tongvon": 40249000
+    },
+    {
+        "thoigian": "2022/07/04",
+        "soluongsanpham": 78,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 68360000,
+        "tongvon": 42995000
+    },
+    {
+        "thoigian": "2022/06/14",
+        "soluongsanpham": 60,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 63140000,
+        "tongvon": 44997000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 55,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66355000,
+        "tongvon": 43504000
+    },
+    {
+        "thoigian": "2022/04/11",
+        "soluongsanpham": 74,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73719000,
+        "tongvon": 44784000
+    },
+    {
+        "thoigian": "2022/04/19",
+        "soluongsanpham": 77,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 63596000,
+        "tongvon": 49811000
+    },
+    {
+        "thoigian": "2022/05/20",
+        "soluongsanpham": 57,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 63650000,
+        "tongvon": 46361000
+    },
+    {
+        "thoigian": "2022/10/17",
+        "soluongsanpham": 69,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 65814000,
+        "tongvon": 43429000
+    },
+    {
+        "thoigian": "2022/01/17",
+        "soluongsanpham": 55,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 70708000,
+        "tongvon": 48330000
+    },
+    {
+        "thoigian": "2022/05/13",
+        "soluongsanpham": 53,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 79711000,
+        "tongvon": 45277000
+    },
+    {
+        "thoigian": "2022/05/26",
+        "soluongsanpham": 62,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78525000,
+        "tongvon": 41905000
+    },
+    {
+        "thoigian": "2022/03/17",
+        "soluongsanpham": 52,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 77848000,
+        "tongvon": 44653000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 52,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 60376000,
+        "tongvon": 48550000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 50,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 75338000,
+        "tongvon": 40832000
+    },
+    {
+        "thoigian": "2022/06/28",
+        "soluongsanpham": 61,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 79411000,
+        "tongvon": 49522000
+    },
+    {
+        "thoigian": "2021/12/29",
+        "soluongsanpham": 67,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 72156000,
+        "tongvon": 43559000
+    },
+    {
+        "thoigian": "2022/02/04",
+        "soluongsanpham": 70,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 70739000,
+        "tongvon": 43550000
+    },
+    {
+        "thoigian": "2022/02/26",
+        "soluongsanpham": 57,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 70272000,
+        "tongvon": 46003000
+    },
+    {
+        "thoigian": "2022/05/18",
+        "soluongsanpham": 61,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 73925000,
+        "tongvon": 49086000
+    },
+    {
+        "thoigian": "2022/03/15",
+        "soluongsanpham": 63,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 79193000,
+        "tongvon": 46466000
+    },
+    {
+        "thoigian": "2022/03/17",
+        "soluongsanpham": 54,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 69885000,
+        "tongvon": 41604000
+    },
+    {
+        "thoigian": "2022/01/27",
+        "soluongsanpham": 71,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 73501000,
+        "tongvon": 47969000
+    },
+    {
+        "thoigian": "2022/11/18",
+        "soluongsanpham": 67,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 70311000,
+        "tongvon": 40838000
+    },
+    {
+        "thoigian": "2021/12/23",
+        "soluongsanpham": 51,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 70072000,
+        "tongvon": 42090000
+    },
+    {
+        "thoigian": "2022/03/24",
+        "soluongsanpham": 63,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 65980000,
+        "tongvon": 46229000
+    },
+    {
+        "thoigian": "2022/02/21",
+        "soluongsanpham": 60,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 65371000,
+        "tongvon": 41787000
+    },
+    {
+        "thoigian": "2022/01/06",
+        "soluongsanpham": 68,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 63711000,
+        "tongvon": 45762000
+    },
+    {
+        "thoigian": "2022/07/25",
+        "soluongsanpham": 64,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 73944000,
+        "tongvon": 46688000
+    },
+    {
+        "thoigian": "2022/06/25",
+        "soluongsanpham": 77,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 73710000,
+        "tongvon": 47273000
+    },
+    {
+        "thoigian": "2022/08/26",
+        "soluongsanpham": 72,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 78547000,
+        "tongvon": 48487000
+    },
+    {
+        "thoigian": "2022/09/08",
+        "soluongsanpham": 64,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 72268000,
+        "tongvon": 47880000
+    },
+    {
+        "thoigian": "2022/06/16",
+        "soluongsanpham": 60,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 61543000,
+        "tongvon": 42908000
+    },
+    {
+        "thoigian": "2021/12/14",
+        "soluongsanpham": 65,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 72444000,
+        "tongvon": 46147000
+    },
+    {
+        "thoigian": "2022/09/23",
+        "soluongsanpham": 69,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68963000,
+        "tongvon": 46031000
+    },
+    {
+        "thoigian": "2022/01/20",
+        "soluongsanpham": 76,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77378000,
+        "tongvon": 48186000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 79,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 65004000,
+        "tongvon": 40955000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 55,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 62416000,
+        "tongvon": 48500000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 55,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 79484000,
+        "tongvon": 40975000
+    },
+    {
+        "thoigian": "2022/08/23",
+        "soluongsanpham": 73,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 67898000,
+        "tongvon": 42604000
+    },
+    {
+        "thoigian": "2022/07/24",
+        "soluongsanpham": 51,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 69875000,
+        "tongvon": 40382000
+    },
+    {
+        "thoigian": "2022/01/05",
+        "soluongsanpham": 64,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 77167000,
+        "tongvon": 40833000
+    },
+    {
+        "thoigian": "2022/02/12",
+        "soluongsanpham": 77,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 71271000,
+        "tongvon": 42791000
+    },
+    {
+        "thoigian": "2022/04/12",
+        "soluongsanpham": 80,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 64634000,
+        "tongvon": 48057000
+    },
+    {
+        "thoigian": "2021/12/21",
+        "soluongsanpham": 67,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 60773000,
+        "tongvon": 45883000
+    },
+    {
+        "thoigian": "2022/02/25",
+        "soluongsanpham": 54,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 61825000,
+        "tongvon": 41913000
+    },
+    {
+        "thoigian": "2022/07/06",
+        "soluongsanpham": 52,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 69100000,
+        "tongvon": 40169000
+    },
+    {
+        "thoigian": "2021/12/04",
+        "soluongsanpham": 50,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 68630000,
+        "tongvon": 41252000
+    },
+    {
+        "thoigian": "2022/03/06",
+        "soluongsanpham": 64,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 64029000,
+        "tongvon": 44215000
+    },
+    {
+        "thoigian": "2021/12/07",
+        "soluongsanpham": 54,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 77997000,
+        "tongvon": 44029000
+    },
+    {
+        "thoigian": "2022/06/19",
+        "soluongsanpham": 50,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 71280000,
+        "tongvon": 43826000
+    },
+    {
+        "thoigian": "2022/05/23",
+        "soluongsanpham": 69,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 64350000,
+        "tongvon": 47061000
+    },
+    {
+        "thoigian": "2022/05/22",
+        "soluongsanpham": 51,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 76816000,
+        "tongvon": 47509000
+    },
+    {
+        "thoigian": "2022/10/13",
+        "soluongsanpham": 63,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 72616000,
+        "tongvon": 40477000
+    },
+    {
+        "thoigian": "2022/10/07",
+        "soluongsanpham": 54,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 60731000,
+        "tongvon": 45230000
+    },
+    {
+        "thoigian": "2022/04/16",
+        "soluongsanpham": 53,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 67374000,
+        "tongvon": 43245000
+    },
+    {
+        "thoigian": "2022/10/16",
+        "soluongsanpham": 67,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64425000,
+        "tongvon": 43039000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 62,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 76863000,
+        "tongvon": 49339000
+    },
+    {
+        "thoigian": "2022/07/11",
+        "soluongsanpham": 56,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 78106000,
+        "tongvon": 45560000
+    },
+    {
+        "thoigian": "2022/07/21",
+        "soluongsanpham": 73,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 76916000,
+        "tongvon": 40425000
+    },
+    {
+        "thoigian": "2022/09/12",
+        "soluongsanpham": 78,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 63948000,
+        "tongvon": 49552000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 68,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 62493000,
+        "tongvon": 42576000
+    },
+    {
+        "thoigian": "2022/05/27",
+        "soluongsanpham": 73,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 76760000,
+        "tongvon": 48237000
+    },
+    {
+        "thoigian": "2022/05/06",
+        "soluongsanpham": 80,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 65183000,
+        "tongvon": 46313000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 75,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 61533000,
+        "tongvon": 44426000
+    },
+    {
+        "thoigian": "2022/08/07",
+        "soluongsanpham": 52,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 71605000,
+        "tongvon": 40324000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 57,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 63404000,
+        "tongvon": 49052000
+    },
+    {
+        "thoigian": "2022/05/22",
+        "soluongsanpham": 62,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 75134000,
+        "tongvon": 49514000
+    },
+    {
+        "thoigian": "2022/10/02",
+        "soluongsanpham": 56,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 65075000,
+        "tongvon": 41558000
+    },
+    {
+        "thoigian": "2022/01/02",
+        "soluongsanpham": 56,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 65394000,
+        "tongvon": 42661000
+    },
+    {
+        "thoigian": "2022/11/21",
+        "soluongsanpham": 75,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 67442000,
+        "tongvon": 49831000
+    },
+    {
+        "thoigian": "2022/11/23",
+        "soluongsanpham": 59,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 79640000,
+        "tongvon": 40638000
+    },
+    {
+        "thoigian": "2022/04/05",
+        "soluongsanpham": 78,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 68701000,
+        "tongvon": 47634000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 69,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 71093000,
+        "tongvon": 47313000
+    },
+    {
+        "thoigian": "2022/09/22",
+        "soluongsanpham": 75,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 74123000,
+        "tongvon": 47499000
+    },
+    {
+        "thoigian": "2022/02/03",
+        "soluongsanpham": 64,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 68942000,
+        "tongvon": 49610000
+    },
+    {
+        "thoigian": "2022/07/03",
+        "soluongsanpham": 78,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 74835000,
+        "tongvon": 46764000
+    },
+    {
+        "thoigian": "2022/10/13",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 62042000,
+        "tongvon": 47122000
+    },
+    {
+        "thoigian": "2022/10/10",
+        "soluongsanpham": 66,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 78651000,
+        "tongvon": 48655000
+    },
+    {
+        "thoigian": "2022/09/10",
+        "soluongsanpham": 60,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 73321000,
+        "tongvon": 48675000
+    },
+    {
+        "thoigian": "2022/10/13",
+        "soluongsanpham": 54,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 71854000,
+        "tongvon": 45511000
+    },
+    {
+        "thoigian": "2022/01/20",
+        "soluongsanpham": 72,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 70785000,
+        "tongvon": 49524000
+    },
+    {
+        "thoigian": "2022/10/29",
+        "soluongsanpham": 72,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 72264000,
+        "tongvon": 42026000
+    },
+    {
+        "thoigian": "2022/05/27",
+        "soluongsanpham": 58,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 76455000,
+        "tongvon": 47576000
+    },
+    {
+        "thoigian": "2022/04/11",
+        "soluongsanpham": 75,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 77817000,
+        "tongvon": 43878000
+    },
+    {
+        "thoigian": "2022/02/17",
+        "soluongsanpham": 56,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 69395000,
+        "tongvon": 47909000
+    },
+    {
+        "thoigian": "2021/12/24",
+        "soluongsanpham": 76,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 71104000,
+        "tongvon": 48417000
+    },
+    {
+        "thoigian": "2022/06/09",
+        "soluongsanpham": 50,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70370000,
+        "tongvon": 46362000
+    },
+    {
+        "thoigian": "2022/01/11",
+        "soluongsanpham": 51,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 77191000,
+        "tongvon": 45421000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 59,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 67256000,
+        "tongvon": 48955000
+    },
+    {
+        "thoigian": "2022/08/27",
+        "soluongsanpham": 63,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 64538000,
+        "tongvon": 41753000
+    },
+    {
+        "thoigian": "2022/03/28",
+        "soluongsanpham": 63,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 77171000,
+        "tongvon": 40345000
+    },
+    {
+        "thoigian": "2022/08/02",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 65859000,
+        "tongvon": 40766000
+    },
+    {
+        "thoigian": "2022/04/13",
+        "soluongsanpham": 55,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 77626000,
+        "tongvon": 48182000
+    },
+    {
+        "thoigian": "2022/07/23",
+        "soluongsanpham": 55,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 71995000,
+        "tongvon": 45343000
+    },
+    {
+        "thoigian": "2022/02/19",
+        "soluongsanpham": 72,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 66715000,
+        "tongvon": 44627000
+    },
+    {
+        "thoigian": "2022/10/01",
+        "soluongsanpham": 69,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 78901000,
+        "tongvon": 45140000
+    },
+    {
+        "thoigian": "2022/09/24",
+        "soluongsanpham": 71,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62663000,
+        "tongvon": 48678000
+    },
+    {
+        "thoigian": "2022/03/16",
+        "soluongsanpham": 53,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 76355000,
+        "tongvon": 43718000
+    },
+    {
+        "thoigian": "2022/07/13",
+        "soluongsanpham": 75,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 68674000,
+        "tongvon": 47145000
+    },
+    {
+        "thoigian": "2022/09/27",
+        "soluongsanpham": 80,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 71996000,
+        "tongvon": 40397000
+    },
+    {
+        "thoigian": "2022/10/30",
+        "soluongsanpham": 54,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 72216000,
+        "tongvon": 49058000
+    },
+    {
+        "thoigian": "2022/04/25",
+        "soluongsanpham": 58,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 66405000,
+        "tongvon": 47219000
+    },
+    {
+        "thoigian": "2022/07/02",
+        "soluongsanpham": 76,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 66031000,
+        "tongvon": 41934000
+    },
+    {
+        "thoigian": "2022/06/27",
+        "soluongsanpham": 55,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 75778000,
+        "tongvon": 41324000
+    },
+    {
+        "thoigian": "2022/04/13",
+        "soluongsanpham": 52,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 79886000,
+        "tongvon": 43390000
+    },
+    {
+        "thoigian": "2022/10/18",
+        "soluongsanpham": 77,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 77761000,
+        "tongvon": 45693000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 80,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 71175000,
+        "tongvon": 45076000
+    },
+    {
+        "thoigian": "2022/09/07",
+        "soluongsanpham": 56,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 78467000,
+        "tongvon": 49119000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 66,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71302000,
+        "tongvon": 48981000
+    },
+    {
+        "thoigian": "2021/12/25",
+        "soluongsanpham": 64,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 64914000,
+        "tongvon": 44917000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 51,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 68042000,
+        "tongvon": 47197000
+    },
+    {
+        "thoigian": "2022/04/01",
+        "soluongsanpham": 76,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 60969000,
+        "tongvon": 43568000
+    },
+    {
+        "thoigian": "2022/07/17",
+        "soluongsanpham": 76,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 69424000,
+        "tongvon": 47132000
+    },
+    {
+        "thoigian": "2022/07/28",
+        "soluongsanpham": 66,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 63724000,
+        "tongvon": 40261000
+    },
+    {
+        "thoigian": "2022/11/03",
+        "soluongsanpham": 70,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61483000,
+        "tongvon": 45475000
+    },
+    {
+        "thoigian": "2022/09/19",
+        "soluongsanpham": 73,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 64112000,
+        "tongvon": 47338000
+    },
+    {
+        "thoigian": "2022/05/09",
+        "soluongsanpham": 63,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 62803000,
+        "tongvon": 44154000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 58,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 78235000,
+        "tongvon": 48869000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 79,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 73840000,
+        "tongvon": 46114000
+    },
+    {
+        "thoigian": "2021/12/22",
+        "soluongsanpham": 56,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62526000,
+        "tongvon": 40705000
+    },
+    {
+        "thoigian": "2022/03/29",
+        "soluongsanpham": 61,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 64194000,
+        "tongvon": 45694000
+    },
+    {
+        "thoigian": "2022/03/19",
+        "soluongsanpham": 59,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 77187000,
+        "tongvon": 40488000
+    },
+    {
+        "thoigian": "2022/09/21",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 67389000,
+        "tongvon": 47841000
+    },
+    {
+        "thoigian": "2022/11/04",
+        "soluongsanpham": 69,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 77611000,
+        "tongvon": 43881000
+    },
+    {
+        "thoigian": "2022/08/22",
+        "soluongsanpham": 77,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 60727000,
+        "tongvon": 41750000
+    },
+    {
+        "thoigian": "2022/08/10",
+        "soluongsanpham": 50,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 77420000,
+        "tongvon": 41328000
+    },
+    {
+        "thoigian": "2022/03/18",
+        "soluongsanpham": 54,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 67802000,
+        "tongvon": 47721000
+    },
+    {
+        "thoigian": "2022/06/19",
+        "soluongsanpham": 58,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 73164000,
+        "tongvon": 41401000
+    },
+    {
+        "thoigian": "2022/08/03",
+        "soluongsanpham": 54,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 71573000,
+        "tongvon": 44523000
+    },
+    {
+        "thoigian": "2022/04/10",
+        "soluongsanpham": 68,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71957000,
+        "tongvon": 46654000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 77,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69819000,
+        "tongvon": 49258000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 56,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 68164000,
+        "tongvon": 49433000
+    },
+    {
+        "thoigian": "2022/06/07",
+        "soluongsanpham": 60,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 71846000,
+        "tongvon": 45236000
+    },
+    {
+        "thoigian": "2022/01/29",
+        "soluongsanpham": 64,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 77422000,
+        "tongvon": 48049000
+    },
+    {
+        "thoigian": "2022/01/21",
+        "soluongsanpham": 51,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 77556000,
+        "tongvon": 40591000
+    },
+    {
+        "thoigian": "2021/12/12",
+        "soluongsanpham": 58,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 76551000,
+        "tongvon": 42492000
+    },
+    {
+        "thoigian": "2022/03/22",
+        "soluongsanpham": 68,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 61924000,
+        "tongvon": 41859000
+    },
+    {
+        "thoigian": "2022/06/25",
+        "soluongsanpham": 80,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70053000,
+        "tongvon": 47969000
+    },
+    {
+        "thoigian": "2022/03/30",
+        "soluongsanpham": 53,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 66107000,
+        "tongvon": 41777000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 50,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 75404000,
+        "tongvon": 47716000
+    },
+    {
+        "thoigian": "2022/10/01",
+        "soluongsanpham": 70,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 74996000,
+        "tongvon": 45643000
+    },
+    {
+        "thoigian": "2022/01/04",
+        "soluongsanpham": 75,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 72934000,
+        "tongvon": 47253000
+    },
+    {
+        "thoigian": "2021/12/22",
+        "soluongsanpham": 65,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 68550000,
+        "tongvon": 47528000
+    },
+    {
+        "thoigian": "2022/01/17",
+        "soluongsanpham": 57,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 74059000,
+        "tongvon": 49758000
+    },
+    {
+        "thoigian": "2022/08/22",
+        "soluongsanpham": 66,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 64640000,
+        "tongvon": 43163000
+    },
+    {
+        "thoigian": "2022/01/20",
+        "soluongsanpham": 74,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63925000,
+        "tongvon": 49081000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 60,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 68808000,
+        "tongvon": 46125000
+    },
+    {
+        "thoigian": "2022/10/23",
+        "soluongsanpham": 67,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 69024000,
+        "tongvon": 47760000
+    },
+    {
+        "thoigian": "2022/11/14",
+        "soluongsanpham": 55,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 71343000,
+        "tongvon": 46140000
+    },
+    {
+        "thoigian": "2022/03/28",
+        "soluongsanpham": 62,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 63412000,
+        "tongvon": 43439000
+    },
+    {
+        "thoigian": "2021/12/12",
+        "soluongsanpham": 53,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 60801000,
+        "tongvon": 40526000
+    },
+    {
+        "thoigian": "2022/03/01",
+        "soluongsanpham": 54,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 77704000,
+        "tongvon": 47177000
+    },
+    {
+        "thoigian": "2022/08/31",
+        "soluongsanpham": 51,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 71541000,
+        "tongvon": 45424000
+    },
+    {
+        "thoigian": "2022/03/14",
+        "soluongsanpham": 57,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 75241000,
+        "tongvon": 48190000
+    },
+    {
+        "thoigian": "2022/06/24",
+        "soluongsanpham": 64,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70873000,
+        "tongvon": 42783000
+    },
+    {
+        "thoigian": "2022/05/24",
+        "soluongsanpham": 56,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 64356000,
+        "tongvon": 41542000
+    },
+    {
+        "thoigian": "2022/05/01",
+        "soluongsanpham": 65,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73430000,
+        "tongvon": 42702000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 75,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 60222000,
+        "tongvon": 47987000
+    },
+    {
+        "thoigian": "2022/10/12",
+        "soluongsanpham": 57,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 67281000,
+        "tongvon": 48430000
+    },
+    {
+        "thoigian": "2022/10/03",
+        "soluongsanpham": 61,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 62402000,
+        "tongvon": 40016000
+    },
+    {
+        "thoigian": "2022/03/17",
+        "soluongsanpham": 56,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 76652000,
+        "tongvon": 40723000
+    },
+    {
+        "thoigian": "2022/11/10",
+        "soluongsanpham": 63,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 65513000,
+        "tongvon": 46820000
+    },
+    {
+        "thoigian": "2022/04/28",
+        "soluongsanpham": 57,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 61294000,
+        "tongvon": 45259000
+    },
+    {
+        "thoigian": "2022/07/25",
+        "soluongsanpham": 51,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70591000,
+        "tongvon": 49868000
+    },
+    {
+        "thoigian": "2022/02/10",
+        "soluongsanpham": 64,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 62765000,
+        "tongvon": 44412000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 53,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 63792000,
+        "tongvon": 41305000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 58,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 75374000,
+        "tongvon": 44506000
+    },
+    {
+        "thoigian": "2022/07/20",
+        "soluongsanpham": 73,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78960000,
+        "tongvon": 47272000
+    },
+    {
+        "thoigian": "2022/08/31",
+        "soluongsanpham": 52,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 69970000,
+        "tongvon": 46816000
+    },
+    {
+        "thoigian": "2022/10/24",
+        "soluongsanpham": 57,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 72571000,
+        "tongvon": 46389000
+    },
+    {
+        "thoigian": "2022/03/03",
+        "soluongsanpham": 67,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 79115000,
+        "tongvon": 41271000
+    },
+    {
+        "thoigian": "2022/06/18",
+        "soluongsanpham": 52,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 74366000,
+        "tongvon": 40354000
+    },
+    {
+        "thoigian": "2022/09/17",
+        "soluongsanpham": 65,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 77207000,
+        "tongvon": 46193000
+    },
+    {
+        "thoigian": "2022/07/19",
+        "soluongsanpham": 80,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66712000,
+        "tongvon": 40139000
+    },
+    {
+        "thoigian": "2022/07/22",
+        "soluongsanpham": 70,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 77406000,
+        "tongvon": 49235000
+    },
+    {
+        "thoigian": "2021/12/18",
+        "soluongsanpham": 50,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71016000,
+        "tongvon": 49691000
+    },
+    {
+        "thoigian": "2022/05/05",
+        "soluongsanpham": 53,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 63257000,
+        "tongvon": 46350000
+    },
+    {
+        "thoigian": "2022/05/25",
+        "soluongsanpham": 72,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 63176000,
+        "tongvon": 46553000
+    },
+    {
+        "thoigian": "2022/09/25",
+        "soluongsanpham": 63,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66564000,
+        "tongvon": 40845000
+    },
+    {
+        "thoigian": "2022/01/31",
+        "soluongsanpham": 51,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 60882000,
+        "tongvon": 40572000
+    },
+    {
+        "thoigian": "2022/04/11",
+        "soluongsanpham": 53,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 67137000,
+        "tongvon": 41019000
+    },
+    {
+        "thoigian": "2022/03/09",
+        "soluongsanpham": 50,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 60375000,
+        "tongvon": 47207000
+    },
+    {
+        "thoigian": "2022/03/09",
+        "soluongsanpham": 69,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 78357000,
+        "tongvon": 46222000
+    },
+    {
+        "thoigian": "2022/08/20",
+        "soluongsanpham": 54,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 62503000,
+        "tongvon": 43618000
+    },
+    {
+        "thoigian": "2022/06/15",
+        "soluongsanpham": 62,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62986000,
+        "tongvon": 48575000
+    },
+    {
+        "thoigian": "2022/02/11",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 71062000,
+        "tongvon": 41607000
+    },
+    {
+        "thoigian": "2022/08/05",
+        "soluongsanpham": 53,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 67943000,
+        "tongvon": 40141000
+    },
+    {
+        "thoigian": "2022/09/22",
+        "soluongsanpham": 77,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 72041000,
+        "tongvon": 44274000
+    },
+    {
+        "thoigian": "2022/08/25",
+        "soluongsanpham": 54,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 74660000,
+        "tongvon": 43854000
+    },
+    {
+        "thoigian": "2022/11/27",
+        "soluongsanpham": 79,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 60816000,
+        "tongvon": 46053000
+    },
+    {
+        "thoigian": "2021/12/19",
+        "soluongsanpham": 52,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 65029000,
+        "tongvon": 49212000
+    },
+    {
+        "thoigian": "2022/11/06",
+        "soluongsanpham": 66,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 64713000,
+        "tongvon": 48065000
+    },
+    {
+        "thoigian": "2022/02/22",
+        "soluongsanpham": 60,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 68216000,
+        "tongvon": 45324000
+    },
+    {
+        "thoigian": "2022/02/08",
+        "soluongsanpham": 65,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 74985000,
+        "tongvon": 42989000
+    },
+    {
+        "thoigian": "2022/08/04",
+        "soluongsanpham": 70,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78593000,
+        "tongvon": 42195000
+    },
+    {
+        "thoigian": "2021/12/24",
+        "soluongsanpham": 80,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 61235000,
+        "tongvon": 41436000
+    },
+    {
+        "thoigian": "2022/03/11",
+        "soluongsanpham": 64,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 67841000,
+        "tongvon": 42897000
+    },
+    {
+        "thoigian": "2022/01/20",
+        "soluongsanpham": 69,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 78558000,
+        "tongvon": 40694000
+    },
+    {
+        "thoigian": "2022/06/29",
+        "soluongsanpham": 79,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79647000,
+        "tongvon": 49360000
+    },
+    {
+        "thoigian": "2022/01/19",
+        "soluongsanpham": 75,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70521000,
+        "tongvon": 45473000
+    },
+    {
+        "thoigian": "2022/05/21",
+        "soluongsanpham": 65,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 71460000,
+        "tongvon": 42442000
+    },
+    {
+        "thoigian": "2021/12/16",
+        "soluongsanpham": 71,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69103000,
+        "tongvon": 45445000
+    },
+    {
+        "thoigian": "2022/05/15",
+        "soluongsanpham": 53,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 69048000,
+        "tongvon": 46875000
+    },
+    {
+        "thoigian": "2022/02/12",
+        "soluongsanpham": 60,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70013000,
+        "tongvon": 46079000
+    },
+    {
+        "thoigian": "2022/09/06",
+        "soluongsanpham": 60,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 71608000,
+        "tongvon": 42831000
+    },
+    {
+        "thoigian": "2022/11/19",
+        "soluongsanpham": 79,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 72900000,
+        "tongvon": 48497000
+    },
+    {
+        "thoigian": "2022/05/12",
+        "soluongsanpham": 74,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79336000,
+        "tongvon": 42569000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 58,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 71383000,
+        "tongvon": 41689000
+    },
+    {
+        "thoigian": "2022/06/10",
+        "soluongsanpham": 59,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 64954000,
+        "tongvon": 44826000
+    },
+    {
+        "thoigian": "2022/10/30",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 73944000,
+        "tongvon": 48962000
+    },
+    {
+        "thoigian": "2022/04/23",
+        "soluongsanpham": 68,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 61592000,
+        "tongvon": 46376000
+    },
+    {
+        "thoigian": "2022/03/08",
+        "soluongsanpham": 67,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 61747000,
+        "tongvon": 41413000
+    },
+    {
+        "thoigian": "2022/07/18",
+        "soluongsanpham": 60,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 60376000,
+        "tongvon": 48467000
+    },
+    {
+        "thoigian": "2022/05/04",
+        "soluongsanpham": 61,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 61174000,
+        "tongvon": 47644000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 65,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 68803000,
+        "tongvon": 42519000
+    },
+    {
+        "thoigian": "2022/04/14",
+        "soluongsanpham": 52,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 60076000,
+        "tongvon": 42348000
+    },
+    {
+        "thoigian": "2022/05/12",
+        "soluongsanpham": 51,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 76057000,
+        "tongvon": 41139000
+    },
+    {
+        "thoigian": "2022/05/23",
+        "soluongsanpham": 59,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 70147000,
+        "tongvon": 41068000
+    },
+    {
+        "thoigian": "2022/03/18",
+        "soluongsanpham": 57,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 74534000,
+        "tongvon": 42331000
+    },
+    {
+        "thoigian": "2022/04/12",
+        "soluongsanpham": 56,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70345000,
+        "tongvon": 46649000
+    },
+    {
+        "thoigian": "2022/03/02",
+        "soluongsanpham": 58,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 64629000,
+        "tongvon": 49604000
+    },
+    {
+        "thoigian": "2022/04/12",
+        "soluongsanpham": 57,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 67828000,
+        "tongvon": 46731000
+    },
+    {
+        "thoigian": "2022/06/01",
+        "soluongsanpham": 79,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 64011000,
+        "tongvon": 46651000
+    },
+    {
+        "thoigian": "2022/09/19",
+        "soluongsanpham": 63,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 60310000,
+        "tongvon": 40686000
+    },
+    {
+        "thoigian": "2022/05/30",
+        "soluongsanpham": 79,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67400000,
+        "tongvon": 47145000
+    },
+    {
+        "thoigian": "2022/01/10",
+        "soluongsanpham": 74,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 68312000,
+        "tongvon": 44233000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 63,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 77626000,
+        "tongvon": 48902000
+    },
+    {
+        "thoigian": "2022/07/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 65510000,
+        "tongvon": 42525000
+    },
+    {
+        "thoigian": "2022/05/09",
+        "soluongsanpham": 57,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66638000,
+        "tongvon": 41170000
+    },
+    {
+        "thoigian": "2022/08/14",
+        "soluongsanpham": 54,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 66475000,
+        "tongvon": 40129000
+    },
+    {
+        "thoigian": "2022/03/09",
+        "soluongsanpham": 51,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 66275000,
+        "tongvon": 42866000
+    },
+    {
+        "thoigian": "2022/06/17",
+        "soluongsanpham": 78,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66044000,
+        "tongvon": 48734000
+    },
+    {
+        "thoigian": "2022/04/10",
+        "soluongsanpham": 56,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 75170000,
+        "tongvon": 46167000
+    },
+    {
+        "thoigian": "2022/09/25",
+        "soluongsanpham": 58,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 62493000,
+        "tongvon": 40562000
+    },
+    {
+        "thoigian": "2022/10/15",
+        "soluongsanpham": 59,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 63562000,
+        "tongvon": 49136000
+    },
+    {
+        "thoigian": "2022/04/19",
+        "soluongsanpham": 74,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 63023000,
+        "tongvon": 43444000
+    },
+    {
+        "thoigian": "2022/08/20",
+        "soluongsanpham": 75,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 79053000,
+        "tongvon": 42126000
+    },
+    {
+        "thoigian": "2022/09/08",
+        "soluongsanpham": 57,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 75224000,
+        "tongvon": 44552000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 71,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 74825000,
+        "tongvon": 47718000
+    },
+    {
+        "thoigian": "2022/04/16",
+        "soluongsanpham": 50,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 76094000,
+        "tongvon": 41244000
+    },
+    {
+        "thoigian": "2022/01/31",
+        "soluongsanpham": 69,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 73319000,
+        "tongvon": 40981000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 61,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79744000,
+        "tongvon": 41005000
+    },
+    {
+        "thoigian": "2022/04/25",
+        "soluongsanpham": 51,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 63700000,
+        "tongvon": 49771000
+    },
+    {
+        "thoigian": "2022/05/08",
+        "soluongsanpham": 50,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 64184000,
+        "tongvon": 42423000
+    },
+    {
+        "thoigian": "2022/03/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 78698000,
+        "tongvon": 49993000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 64071000,
+        "tongvon": 47773000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 67,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 78066000,
+        "tongvon": 45057000
+    },
+    {
+        "thoigian": "2022/04/05",
+        "soluongsanpham": 53,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 71271000,
+        "tongvon": 47743000
+    },
+    {
+        "thoigian": "2022/06/02",
+        "soluongsanpham": 71,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 70282000,
+        "tongvon": 41911000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 50,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 74642000,
+        "tongvon": 43777000
+    },
+    {
+        "thoigian": "2022/03/08",
+        "soluongsanpham": 66,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 72641000,
+        "tongvon": 40066000
+    },
+    {
+        "thoigian": "2022/11/21",
+        "soluongsanpham": 62,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68997000,
+        "tongvon": 43399000
+    },
+    {
+        "thoigian": "2022/09/06",
+        "soluongsanpham": 52,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 79681000,
+        "tongvon": 42811000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 78,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 61492000,
+        "tongvon": 45695000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 73,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 79440000,
+        "tongvon": 44675000
+    },
+    {
+        "thoigian": "2022/06/03",
+        "soluongsanpham": 78,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 60878000,
+        "tongvon": 45064000
+    },
+    {
+        "thoigian": "2022/06/24",
+        "soluongsanpham": 50,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 68186000,
+        "tongvon": 48106000
+    },
+    {
+        "thoigian": "2021/11/30",
+        "soluongsanpham": 68,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 65788000,
+        "tongvon": 43008000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 78,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 69091000,
+        "tongvon": 45544000
+    },
+    {
+        "thoigian": "2022/10/29",
+        "soluongsanpham": 73,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 61763000,
+        "tongvon": 41813000
+    },
+    {
+        "thoigian": "2022/08/05",
+        "soluongsanpham": 62,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 78686000,
+        "tongvon": 40655000
+    },
+    {
+        "thoigian": "2022/10/26",
+        "soluongsanpham": 79,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 68726000,
+        "tongvon": 46199000
+    },
+    {
+        "thoigian": "2022/11/03",
+        "soluongsanpham": 73,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 72848000,
+        "tongvon": 47952000
+    },
+    {
+        "thoigian": "2022/04/07",
+        "soluongsanpham": 53,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 66059000,
+        "tongvon": 43243000
+    },
+    {
+        "thoigian": "2022/10/16",
+        "soluongsanpham": 54,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79383000,
+        "tongvon": 43969000
+    },
+    {
+        "thoigian": "2022/09/19",
+        "soluongsanpham": 64,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 68898000,
+        "tongvon": 45251000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 59,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 71316000,
+        "tongvon": 45561000
+    },
+    {
+        "thoigian": "2022/04/15",
+        "soluongsanpham": 80,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 70545000,
+        "tongvon": 40285000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 61,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 66884000,
+        "tongvon": 41769000
+    },
+    {
+        "thoigian": "2022/03/01",
+        "soluongsanpham": 50,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 78749000,
+        "tongvon": 42227000
+    },
+    {
+        "thoigian": "2022/01/05",
+        "soluongsanpham": 53,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 74568000,
+        "tongvon": 43791000
+    },
+    {
+        "thoigian": "2022/02/21",
+        "soluongsanpham": 60,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 62715000,
+        "tongvon": 43378000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 55,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 73520000,
+        "tongvon": 48637000
+    },
+    {
+        "thoigian": "2022/07/26",
+        "soluongsanpham": 61,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 62823000,
+        "tongvon": 44410000
+    },
+    {
+        "thoigian": "2021/12/12",
+        "soluongsanpham": 68,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 60185000,
+        "tongvon": 49573000
+    },
+    {
+        "thoigian": "2022/09/24",
+        "soluongsanpham": 79,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 67090000,
+        "tongvon": 49222000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 67,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 64212000,
+        "tongvon": 48790000
+    },
+    {
+        "thoigian": "2022/07/03",
+        "soluongsanpham": 60,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 65922000,
+        "tongvon": 45066000
+    },
+    {
+        "thoigian": "2021/12/09",
+        "soluongsanpham": 63,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 70763000,
+        "tongvon": 47634000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 51,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70554000,
+        "tongvon": 48958000
+    },
+    {
+        "thoigian": "2022/07/13",
+        "soluongsanpham": 50,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 77950000,
+        "tongvon": 41142000
+    },
+    {
+        "thoigian": "2022/04/27",
+        "soluongsanpham": 71,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 73277000,
+        "tongvon": 41167000
+    },
+    {
+        "thoigian": "2022/05/04",
+        "soluongsanpham": 67,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 72688000,
+        "tongvon": 49597000
+    },
+    {
+        "thoigian": "2021/12/29",
+        "soluongsanpham": 73,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68434000,
+        "tongvon": 45712000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 70,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 72954000,
+        "tongvon": 48558000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 57,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 62393000,
+        "tongvon": 49328000
+    },
+    {
+        "thoigian": "2021/12/07",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 63344000,
+        "tongvon": 43002000
+    },
+    {
+        "thoigian": "2022/05/16",
+        "soluongsanpham": 73,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 72061000,
+        "tongvon": 48522000
+    },
+    {
+        "thoigian": "2022/10/05",
+        "soluongsanpham": 74,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 63414000,
+        "tongvon": 43007000
+    },
+    {
+        "thoigian": "2022/10/04",
+        "soluongsanpham": 53,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 72382000,
+        "tongvon": 47130000
+    },
+    {
+        "thoigian": "2022/02/13",
+        "soluongsanpham": 74,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 61109000,
+        "tongvon": 46716000
+    },
+    {
+        "thoigian": "2022/09/18",
+        "soluongsanpham": 79,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 63414000,
+        "tongvon": 47648000
+    },
+    {
+        "thoigian": "2022/02/13",
+        "soluongsanpham": 80,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 75535000,
+        "tongvon": 46757000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 53,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 65802000,
+        "tongvon": 46095000
+    },
+    {
+        "thoigian": "2022/02/25",
+        "soluongsanpham": 54,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 78022000,
+        "tongvon": 42002000
+    },
+    {
+        "thoigian": "2022/02/01",
+        "soluongsanpham": 54,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 69554000,
+        "tongvon": 47241000
+    },
+    {
+        "thoigian": "2022/07/27",
+        "soluongsanpham": 54,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79947000,
+        "tongvon": 41888000
+    },
+    {
+        "thoigian": "2021/12/28",
+        "soluongsanpham": 69,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 75047000,
+        "tongvon": 45402000
+    },
+    {
+        "thoigian": "2022/11/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 74635000,
+        "tongvon": 47046000
+    },
+    {
+        "thoigian": "2022/01/01",
+        "soluongsanpham": 55,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 73541000,
+        "tongvon": 40779000
+    },
+    {
+        "thoigian": "2021/12/10",
+        "soluongsanpham": 69,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 71141000,
+        "tongvon": 48075000
+    },
+    {
+        "thoigian": "2021/12/22",
+        "soluongsanpham": 78,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 70238000,
+        "tongvon": 41569000
+    },
+    {
+        "thoigian": "2022/10/14",
+        "soluongsanpham": 71,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 69547000,
+        "tongvon": 45967000
+    },
+    {
+        "thoigian": "2022/10/11",
+        "soluongsanpham": 53,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 76009000,
+        "tongvon": 48636000
+    },
+    {
+        "thoigian": "2021/12/26",
+        "soluongsanpham": 60,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 68252000,
+        "tongvon": 40921000
+    },
+    {
+        "thoigian": "2022/05/25",
+        "soluongsanpham": 65,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 74075000,
+        "tongvon": 47821000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 61,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 73327000,
+        "tongvon": 41370000
+    },
+    {
+        "thoigian": "2022/10/23",
+        "soluongsanpham": 80,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 74771000,
+        "tongvon": 48057000
+    },
+    {
+        "thoigian": "2022/09/24",
+        "soluongsanpham": 60,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 68240000,
+        "tongvon": 44317000
+    },
+    {
+        "thoigian": "2022/02/11",
+        "soluongsanpham": 53,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 70046000,
+        "tongvon": 41298000
+    },
+    {
+        "thoigian": "2022/02/06",
+        "soluongsanpham": 60,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 75197000,
+        "tongvon": 46633000
+    },
+    {
+        "thoigian": "2022/03/22",
+        "soluongsanpham": 62,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78726000,
+        "tongvon": 41841000
+    },
+    {
+        "thoigian": "2022/05/11",
+        "soluongsanpham": 55,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 72460000,
+        "tongvon": 42561000
+    },
+    {
+        "thoigian": "2022/03/30",
+        "soluongsanpham": 73,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 61643000,
+        "tongvon": 48810000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 61,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 76579000,
+        "tongvon": 41107000
+    },
+    {
+        "thoigian": "2022/02/17",
+        "soluongsanpham": 55,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 67031000,
+        "tongvon": 48146000
+    },
+    {
+        "thoigian": "2022/09/17",
+        "soluongsanpham": 76,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 69745000,
+        "tongvon": 42189000
+    },
+    {
+        "thoigian": "2022/10/12",
+        "soluongsanpham": 79,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62606000,
+        "tongvon": 42712000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 57,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73001000,
+        "tongvon": 47539000
+    },
+    {
+        "thoigian": "2022/09/05",
+        "soluongsanpham": 50,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 60784000,
+        "tongvon": 40932000
+    },
+    {
+        "thoigian": "2022/09/28",
+        "soluongsanpham": 61,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 76247000,
+        "tongvon": 43141000
+    },
+    {
+        "thoigian": "2022/02/10",
+        "soluongsanpham": 76,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 67901000,
+        "tongvon": 42664000
+    },
+    {
+        "thoigian": "2022/07/02",
+        "soluongsanpham": 62,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 71418000,
+        "tongvon": 46991000
+    },
+    {
+        "thoigian": "2022/03/26",
+        "soluongsanpham": 59,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 74573000,
+        "tongvon": 42551000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 68,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 74350000,
+        "tongvon": 41248000
+    },
+    {
+        "thoigian": "2022/07/22",
+        "soluongsanpham": 58,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 79840000,
+        "tongvon": 43310000
+    },
+    {
+        "thoigian": "2022/03/23",
+        "soluongsanpham": 50,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 78565000,
+        "tongvon": 44482000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 50,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67887000,
+        "tongvon": 42821000
+    },
+    {
+        "thoigian": "2022/01/05",
+        "soluongsanpham": 64,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 73529000,
+        "tongvon": 42394000
+    },
+    {
+        "thoigian": "2022/07/10",
+        "soluongsanpham": 71,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 73959000,
+        "tongvon": 42924000
+    },
+    {
+        "thoigian": "2021/12/25",
+        "soluongsanpham": 52,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 76470000,
+        "tongvon": 49852000
+    },
+    {
+        "thoigian": "2022/11/29",
+        "soluongsanpham": 68,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70860000,
+        "tongvon": 49007000
+    },
+    {
+        "thoigian": "2022/03/30",
+        "soluongsanpham": 53,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 77357000,
+        "tongvon": 41474000
+    },
+    {
+        "thoigian": "2022/01/16",
+        "soluongsanpham": 74,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 65981000,
+        "tongvon": 45711000
+    },
+    {
+        "thoigian": "2022/03/09",
+        "soluongsanpham": 64,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 68705000,
+        "tongvon": 45525000
+    },
+    {
+        "thoigian": "2021/12/24",
+        "soluongsanpham": 80,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 78510000,
+        "tongvon": 47219000
+    },
+    {
+        "thoigian": "2022/05/21",
+        "soluongsanpham": 58,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 76083000,
+        "tongvon": 44996000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 64,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 79559000,
+        "tongvon": 48337000
+    },
+    {
+        "thoigian": "2022/07/29",
+        "soluongsanpham": 54,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 60122000,
+        "tongvon": 42950000
+    },
+    {
+        "thoigian": "2022/05/21",
+        "soluongsanpham": 55,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 73643000,
+        "tongvon": 49553000
+    },
+    {
+        "thoigian": "2022/10/31",
+        "soluongsanpham": 67,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 77331000,
+        "tongvon": 44275000
+    },
+    {
+        "thoigian": "2022/02/17",
+        "soluongsanpham": 52,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 78416000,
+        "tongvon": 44243000
+    },
+    {
+        "thoigian": "2022/04/11",
+        "soluongsanpham": 70,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 68002000,
+        "tongvon": 47754000
+    },
+    {
+        "thoigian": "2022/01/30",
+        "soluongsanpham": 75,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63175000,
+        "tongvon": 43319000
+    },
+    {
+        "thoigian": "2022/11/24",
+        "soluongsanpham": 74,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64822000,
+        "tongvon": 47562000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 76,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 69567000,
+        "tongvon": 45245000
+    },
+    {
+        "thoigian": "2022/01/15",
+        "soluongsanpham": 60,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 66995000,
+        "tongvon": 42534000
+    },
+    {
+        "thoigian": "2022/08/19",
+        "soluongsanpham": 74,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 71122000,
+        "tongvon": 40722000
+    },
+    {
+        "thoigian": "2021/12/30",
+        "soluongsanpham": 53,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 78748000,
+        "tongvon": 48793000
+    },
+    {
+        "thoigian": "2022/09/28",
+        "soluongsanpham": 68,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64962000,
+        "tongvon": 46672000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 72,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 62877000,
+        "tongvon": 45591000
+    },
+    {
+        "thoigian": "2022/09/15",
+        "soluongsanpham": 57,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69860000,
+        "tongvon": 42620000
+    },
+    {
+        "thoigian": "2022/11/27",
+        "soluongsanpham": 60,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 62130000,
+        "tongvon": 47212000
+    },
+    {
+        "thoigian": "2022/11/06",
+        "soluongsanpham": 61,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 72829000,
+        "tongvon": 45412000
+    },
+    {
+        "thoigian": "2022/03/11",
+        "soluongsanpham": 71,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 72153000,
+        "tongvon": 42421000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 69,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 66979000,
+        "tongvon": 42648000
+    },
+    {
+        "thoigian": "2022/11/12",
+        "soluongsanpham": 52,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 72787000,
+        "tongvon": 49456000
+    },
+    {
+        "thoigian": "2022/11/07",
+        "soluongsanpham": 67,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 68976000,
+        "tongvon": 46542000
+    },
+    {
+        "thoigian": "2022/07/10",
+        "soluongsanpham": 75,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 76982000,
+        "tongvon": 42732000
+    },
+    {
+        "thoigian": "2022/08/29",
+        "soluongsanpham": 56,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 76028000,
+        "tongvon": 46488000
+    },
+    {
+        "thoigian": "2021/12/09",
+        "soluongsanpham": 50,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 71452000,
+        "tongvon": 44573000
+    },
+    {
+        "thoigian": "2022/02/04",
+        "soluongsanpham": 69,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 78221000,
+        "tongvon": 49565000
+    },
+    {
+        "thoigian": "2022/02/08",
+        "soluongsanpham": 61,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 78239000,
+        "tongvon": 49463000
+    },
+    {
+        "thoigian": "2022/08/13",
+        "soluongsanpham": 55,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64059000,
+        "tongvon": 48032000
+    },
+    {
+        "thoigian": "2022/02/23",
+        "soluongsanpham": 72,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 72821000,
+        "tongvon": 41929000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 80,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 66108000,
+        "tongvon": 49925000
+    },
+    {
+        "thoigian": "2022/04/10",
+        "soluongsanpham": 59,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 67017000,
+        "tongvon": 46863000
+    },
+    {
+        "thoigian": "2022/03/20",
+        "soluongsanpham": 64,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 78882000,
+        "tongvon": 48301000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 57,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 61966000,
+        "tongvon": 45039000
+    },
+    {
+        "thoigian": "2022/03/15",
+        "soluongsanpham": 65,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 72998000,
+        "tongvon": 47573000
+    },
+    {
+        "thoigian": "2022/07/11",
+        "soluongsanpham": 80,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 66174000,
+        "tongvon": 46762000
+    },
+    {
+        "thoigian": "2022/03/12",
+        "soluongsanpham": 58,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 74196000,
+        "tongvon": 47399000
+    },
+    {
+        "thoigian": "2022/07/19",
+        "soluongsanpham": 79,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 63737000,
+        "tongvon": 43304000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 59,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78619000,
+        "tongvon": 40609000
+    },
+    {
+        "thoigian": "2021/12/13",
+        "soluongsanpham": 54,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 75015000,
+        "tongvon": 42046000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 72,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 60033000,
+        "tongvon": 45956000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 74,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 73799000,
+        "tongvon": 40978000
+    },
+    {
+        "thoigian": "2022/08/12",
+        "soluongsanpham": 67,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 74711000,
+        "tongvon": 43329000
+    },
+    {
+        "thoigian": "2022/09/27",
+        "soluongsanpham": 65,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 78874000,
+        "tongvon": 48289000
+    },
+    {
+        "thoigian": "2022/02/15",
+        "soluongsanpham": 66,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 64161000,
+        "tongvon": 49711000
+    },
+    {
+        "thoigian": "2022/11/06",
+        "soluongsanpham": 74,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 71889000,
+        "tongvon": 47400000
+    },
+    {
+        "thoigian": "2022/05/14",
+        "soluongsanpham": 70,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 61661000,
+        "tongvon": 41026000
+    },
+    {
+        "thoigian": "2022/05/24",
+        "soluongsanpham": 60,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 78780000,
+        "tongvon": 41073000
+    },
+    {
+        "thoigian": "2021/12/08",
+        "soluongsanpham": 51,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 68228000,
+        "tongvon": 48016000
+    },
+    {
+        "thoigian": "2022/10/31",
+        "soluongsanpham": 64,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 74110000,
+        "tongvon": 44957000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 78,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 69651000,
+        "tongvon": 47541000
+    },
+    {
+        "thoigian": "2022/06/26",
+        "soluongsanpham": 62,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 78176000,
+        "tongvon": 41279000
+    },
+    {
+        "thoigian": "2021/12/05",
+        "soluongsanpham": 69,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 66006000,
+        "tongvon": 48789000
+    },
+    {
+        "thoigian": "2022/08/24",
+        "soluongsanpham": 76,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 74790000,
+        "tongvon": 41314000
+    },
+    {
+        "thoigian": "2022/04/12",
+        "soluongsanpham": 70,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 63479000,
+        "tongvon": 47203000
+    },
+    {
+        "thoigian": "2022/03/27",
+        "soluongsanpham": 56,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 63273000,
+        "tongvon": 45171000
+    },
+    {
+        "thoigian": "2022/10/01",
+        "soluongsanpham": 78,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 68666000,
+        "tongvon": 42019000
+    },
+    {
+        "thoigian": "2021/12/20",
+        "soluongsanpham": 71,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 65923000,
+        "tongvon": 44031000
+    },
+    {
+        "thoigian": "2022/05/03",
+        "soluongsanpham": 58,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 69429000,
+        "tongvon": 49300000
+    },
+    {
+        "thoigian": "2021/12/19",
+        "soluongsanpham": 57,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 69930000,
+        "tongvon": 45540000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 78,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 67544000,
+        "tongvon": 45195000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 60,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 67429000,
+        "tongvon": 48242000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 53,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 66195000,
+        "tongvon": 40746000
+    },
+    {
+        "thoigian": "2022/06/27",
+        "soluongsanpham": 75,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 72782000,
+        "tongvon": 49250000
+    },
+    {
+        "thoigian": "2021/12/31",
+        "soluongsanpham": 69,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 73250000,
+        "tongvon": 42374000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 51,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 72003000,
+        "tongvon": 41061000
+    },
+    {
+        "thoigian": "2022/04/28",
+        "soluongsanpham": 80,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 68898000,
+        "tongvon": 49530000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 66,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 74439000,
+        "tongvon": 48985000
+    },
+    {
+        "thoigian": "2022/03/13",
+        "soluongsanpham": 72,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 79888000,
+        "tongvon": 45197000
+    },
+    {
+        "thoigian": "2022/02/18",
+        "soluongsanpham": 78,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 68986000,
+        "tongvon": 46704000
+    },
+    {
+        "thoigian": "2022/09/23",
+        "soluongsanpham": 55,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 62332000,
+        "tongvon": 45878000
+    },
+    {
+        "thoigian": "2022/04/27",
+        "soluongsanpham": 78,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78252000,
+        "tongvon": 44577000
+    },
+    {
+        "thoigian": "2022/05/22",
+        "soluongsanpham": 79,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 64748000,
+        "tongvon": 49999000
+    },
+    {
+        "thoigian": "2021/12/05",
+        "soluongsanpham": 76,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 78716000,
+        "tongvon": 45906000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 50,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 66165000,
+        "tongvon": 49410000
+    },
+    {
+        "thoigian": "2022/01/28",
+        "soluongsanpham": 51,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 67830000,
+        "tongvon": 40903000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 69,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 71081000,
+        "tongvon": 47696000
+    },
+    {
+        "thoigian": "2022/07/23",
+        "soluongsanpham": 74,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70282000,
+        "tongvon": 44670000
+    },
+    {
+        "thoigian": "2022/07/27",
+        "soluongsanpham": 71,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 65188000,
+        "tongvon": 46957000
+    },
+    {
+        "thoigian": "2021/12/01",
+        "soluongsanpham": 51,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 65392000,
+        "tongvon": 47832000
+    },
+    {
+        "thoigian": "2022/10/01",
+        "soluongsanpham": 66,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 70680000,
+        "tongvon": 43770000
+    },
+    {
+        "thoigian": "2022/10/17",
+        "soluongsanpham": 66,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 67231000,
+        "tongvon": 48329000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 53,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79606000,
+        "tongvon": 41870000
+    },
+    {
+        "thoigian": "2022/03/12",
+        "soluongsanpham": 75,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 60988000,
+        "tongvon": 49865000
+    },
+    {
+        "thoigian": "2022/07/22",
+        "soluongsanpham": 53,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 69039000,
+        "tongvon": 47474000
+    },
+    {
+        "thoigian": "2021/12/31",
+        "soluongsanpham": 60,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70535000,
+        "tongvon": 42905000
+    },
+    {
+        "thoigian": "2021/12/03",
+        "soluongsanpham": 63,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 61566000,
+        "tongvon": 42947000
+    },
+    {
+        "thoigian": "2021/12/28",
+        "soluongsanpham": 50,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 63796000,
+        "tongvon": 43235000
+    },
+    {
+        "thoigian": "2022/01/25",
+        "soluongsanpham": 53,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 70842000,
+        "tongvon": 49960000
+    },
+    {
+        "thoigian": "2022/02/02",
+        "soluongsanpham": 62,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78646000,
+        "tongvon": 42258000
+    },
+    {
+        "thoigian": "2022/07/28",
+        "soluongsanpham": 50,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 61249000,
+        "tongvon": 40236000
+    },
+    {
+        "thoigian": "2022/10/13",
+        "soluongsanpham": 74,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 70218000,
+        "tongvon": 45234000
+    },
+    {
+        "thoigian": "2022/07/18",
+        "soluongsanpham": 73,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 77162000,
+        "tongvon": 40430000
+    },
+    {
+        "thoigian": "2022/03/07",
+        "soluongsanpham": 51,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 73792000,
+        "tongvon": 49337000
+    },
+    {
+        "thoigian": "2022/01/24",
+        "soluongsanpham": 75,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 60045000,
+        "tongvon": 41521000
+    },
+    {
+        "thoigian": "2022/10/13",
+        "soluongsanpham": 54,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 69278000,
+        "tongvon": 41961000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 50,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 74038000,
+        "tongvon": 41549000
+    },
+    {
+        "thoigian": "2022/07/21",
+        "soluongsanpham": 53,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 75417000,
+        "tongvon": 49853000
+    },
+    {
+        "thoigian": "2022/11/23",
+        "soluongsanpham": 51,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 60667000,
+        "tongvon": 43718000
+    },
+    {
+        "thoigian": "2022/05/10",
+        "soluongsanpham": 66,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 74307000,
+        "tongvon": 46146000
+    },
+    {
+        "thoigian": "2022/10/04",
+        "soluongsanpham": 50,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 73383000,
+        "tongvon": 40378000
+    },
+    {
+        "thoigian": "2022/09/10",
+        "soluongsanpham": 50,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73314000,
+        "tongvon": 47124000
+    },
+    {
+        "thoigian": "2022/07/17",
+        "soluongsanpham": 76,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 64896000,
+        "tongvon": 45958000
+    },
+    {
+        "thoigian": "2022/10/17",
+        "soluongsanpham": 60,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 71876000,
+        "tongvon": 45366000
+    },
+    {
+        "thoigian": "2022/06/28",
+        "soluongsanpham": 73,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 71543000,
+        "tongvon": 46803000
+    },
+    {
+        "thoigian": "2022/06/30",
+        "soluongsanpham": 50,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 78839000,
+        "tongvon": 47242000
+    },
+    {
+        "thoigian": "2022/04/01",
+        "soluongsanpham": 52,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 66603000,
+        "tongvon": 41476000
+    },
+    {
+        "thoigian": "2022/03/27",
+        "soluongsanpham": 74,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 62718000,
+        "tongvon": 44074000
+    },
+    {
+        "thoigian": "2022/08/27",
+        "soluongsanpham": 53,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 76900000,
+        "tongvon": 43157000
+    },
+    {
+        "thoigian": "2022/10/14",
+        "soluongsanpham": 75,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 61029000,
+        "tongvon": 40103000
+    },
+    {
+        "thoigian": "2022/09/22",
+        "soluongsanpham": 78,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67954000,
+        "tongvon": 43067000
+    },
+    {
+        "thoigian": "2022/06/10",
+        "soluongsanpham": 59,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 69622000,
+        "tongvon": 45560000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 76,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 77986000,
+        "tongvon": 48900000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 67,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 61396000,
+        "tongvon": 41894000
+    },
+    {
+        "thoigian": "2022/02/05",
+        "soluongsanpham": 68,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 61721000,
+        "tongvon": 44350000
+    },
+    {
+        "thoigian": "2022/09/09",
+        "soluongsanpham": 53,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 68369000,
+        "tongvon": 43127000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 61,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 71827000,
+        "tongvon": 40205000
+    },
+    {
+        "thoigian": "2022/02/19",
+        "soluongsanpham": 57,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 73885000,
+        "tongvon": 44791000
+    },
+    {
+        "thoigian": "2022/01/21",
+        "soluongsanpham": 56,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 75547000,
+        "tongvon": 45437000
+    },
+    {
+        "thoigian": "2022/09/15",
+        "soluongsanpham": 78,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 67776000,
+        "tongvon": 43229000
+    },
+    {
+        "thoigian": "2022/05/02",
+        "soluongsanpham": 70,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 72216000,
+        "tongvon": 48181000
+    },
+    {
+        "thoigian": "2022/01/17",
+        "soluongsanpham": 77,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 78207000,
+        "tongvon": 44368000
+    },
+    {
+        "thoigian": "2022/09/11",
+        "soluongsanpham": 75,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 67819000,
+        "tongvon": 40851000
+    },
+    {
+        "thoigian": "2022/11/20",
+        "soluongsanpham": 51,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 72516000,
+        "tongvon": 47438000
+    },
+    {
+        "thoigian": "2022/08/12",
+        "soluongsanpham": 75,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 67487000,
+        "tongvon": 46114000
+    },
+    {
+        "thoigian": "2022/01/18",
+        "soluongsanpham": 64,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 73605000,
+        "tongvon": 43881000
+    },
+    {
+        "thoigian": "2022/09/09",
+        "soluongsanpham": 72,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 71893000,
+        "tongvon": 45257000
+    },
+    {
+        "thoigian": "2022/11/08",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 67726000,
+        "tongvon": 46085000
+    },
+    {
+        "thoigian": "2022/03/26",
+        "soluongsanpham": 75,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 68956000,
+        "tongvon": 42756000
+    },
+    {
+        "thoigian": "2022/01/31",
+        "soluongsanpham": 65,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 77499000,
+        "tongvon": 46286000
+    },
+    {
+        "thoigian": "2022/05/21",
+        "soluongsanpham": 76,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 60713000,
+        "tongvon": 41609000
+    },
+    {
+        "thoigian": "2022/08/19",
+        "soluongsanpham": 71,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 77197000,
+        "tongvon": 46913000
+    },
+    {
+        "thoigian": "2022/09/06",
+        "soluongsanpham": 74,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 70247000,
+        "tongvon": 48290000
+    },
+    {
+        "thoigian": "2022/07/09",
+        "soluongsanpham": 56,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69881000,
+        "tongvon": 41717000
+    },
+    {
+        "thoigian": "2022/11/29",
+        "soluongsanpham": 65,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 62138000,
+        "tongvon": 48113000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 60,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70887000,
+        "tongvon": 41102000
+    },
+    {
+        "thoigian": "2022/07/12",
+        "soluongsanpham": 75,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64429000,
+        "tongvon": 45447000
+    },
+    {
+        "thoigian": "2022/04/24",
+        "soluongsanpham": 60,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66385000,
+        "tongvon": 44222000
+    },
+    {
+        "thoigian": "2022/07/25",
+        "soluongsanpham": 58,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 79522000,
+        "tongvon": 41562000
+    },
+    {
+        "thoigian": "2022/10/24",
+        "soluongsanpham": 59,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 72752000,
+        "tongvon": 47108000
+    },
+    {
+        "thoigian": "2022/04/15",
+        "soluongsanpham": 52,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78037000,
+        "tongvon": 40398000
+    },
+    {
+        "thoigian": "2021/12/13",
+        "soluongsanpham": 60,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 68899000,
+        "tongvon": 46613000
+    },
+    {
+        "thoigian": "2022/07/24",
+        "soluongsanpham": 50,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 71310000,
+        "tongvon": 43797000
+    },
+    {
+        "thoigian": "2022/08/31",
+        "soluongsanpham": 58,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 76504000,
+        "tongvon": 41822000
+    },
+    {
+        "thoigian": "2022/04/27",
+        "soluongsanpham": 68,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 67868000,
+        "tongvon": 43058000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 77,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 66786000,
+        "tongvon": 40930000
+    },
+    {
+        "thoigian": "2022/03/31",
+        "soluongsanpham": 66,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 68633000,
+        "tongvon": 47614000
+    },
+    {
+        "thoigian": "2021/12/24",
+        "soluongsanpham": 73,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 74911000,
+        "tongvon": 41311000
+    },
+    {
+        "thoigian": "2022/06/03",
+        "soluongsanpham": 76,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78472000,
+        "tongvon": 41040000
+    },
+    {
+        "thoigian": "2021/12/28",
+        "soluongsanpham": 76,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 77036000,
+        "tongvon": 49052000
+    },
+    {
+        "thoigian": "2022/10/03",
+        "soluongsanpham": 50,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 66084000,
+        "tongvon": 47627000
+    },
+    {
+        "thoigian": "2022/09/11",
+        "soluongsanpham": 77,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 62529000,
+        "tongvon": 41131000
+    },
+    {
+        "thoigian": "2022/02/16",
+        "soluongsanpham": 72,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 76564000,
+        "tongvon": 48820000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 65,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 75372000,
+        "tongvon": 48975000
+    },
+    {
+        "thoigian": "2022/03/16",
+        "soluongsanpham": 75,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 67829000,
+        "tongvon": 47425000
+    },
+    {
+        "thoigian": "2021/12/12",
+        "soluongsanpham": 71,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 75137000,
+        "tongvon": 47157000
+    },
+    {
+        "thoigian": "2022/07/22",
+        "soluongsanpham": 55,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 66060000,
+        "tongvon": 40141000
+    },
+    {
+        "thoigian": "2022/10/27",
+        "soluongsanpham": 68,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 67298000,
+        "tongvon": 42436000
+    },
+    {
+        "thoigian": "2022/10/08",
+        "soluongsanpham": 72,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 67630000,
+        "tongvon": 40311000
+    },
+    {
+        "thoigian": "2022/01/23",
+        "soluongsanpham": 67,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 73226000,
+        "tongvon": 49575000
+    },
+    {
+        "thoigian": "2022/04/07",
+        "soluongsanpham": 63,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 69600000,
+        "tongvon": 46935000
+    },
+    {
+        "thoigian": "2022/11/27",
+        "soluongsanpham": 57,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 65243000,
+        "tongvon": 40303000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 70,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 70033000,
+        "tongvon": 47484000
+    },
+    {
+        "thoigian": "2022/05/31",
+        "soluongsanpham": 57,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 71123000,
+        "tongvon": 40424000
+    },
+    {
+        "thoigian": "2022/07/24",
+        "soluongsanpham": 61,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 79560000,
+        "tongvon": 47309000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 65,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 68931000,
+        "tongvon": 49286000
+    },
+    {
+        "thoigian": "2022/03/19",
+        "soluongsanpham": 56,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 65064000,
+        "tongvon": 46929000
+    },
+    {
+        "thoigian": "2022/09/09",
+        "soluongsanpham": 64,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 72542000,
+        "tongvon": 49660000
+    },
+    {
+        "thoigian": "2022/01/21",
+        "soluongsanpham": 78,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 71036000,
+        "tongvon": 42554000
+    },
+    {
+        "thoigian": "2021/12/31",
+        "soluongsanpham": 68,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64744000,
+        "tongvon": 41083000
+    },
+    {
+        "thoigian": "2022/01/26",
+        "soluongsanpham": 68,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 65157000,
+        "tongvon": 44687000
+    },
+    {
+        "thoigian": "2022/10/15",
+        "soluongsanpham": 61,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 60023000,
+        "tongvon": 45570000
+    },
+    {
+        "thoigian": "2022/06/21",
+        "soluongsanpham": 80,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 78427000,
+        "tongvon": 48176000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 75,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 70201000,
+        "tongvon": 42331000
+    },
+    {
+        "thoigian": "2022/03/03",
+        "soluongsanpham": 63,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 74316000,
+        "tongvon": 42939000
+    },
+    {
+        "thoigian": "2022/07/27",
+        "soluongsanpham": 64,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 73126000,
+        "tongvon": 43996000
+    },
+    {
+        "thoigian": "2022/06/15",
+        "soluongsanpham": 76,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 76228000,
+        "tongvon": 42279000
+    },
+    {
+        "thoigian": "2022/07/18",
+        "soluongsanpham": 80,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 63454000,
+        "tongvon": 45723000
+    },
+    {
+        "thoigian": "2022/02/18",
+        "soluongsanpham": 76,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 77041000,
+        "tongvon": 48303000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 64,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 77266000,
+        "tongvon": 44798000
+    },
+    {
+        "thoigian": "2022/06/27",
+        "soluongsanpham": 52,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 60942000,
+        "tongvon": 44854000
+    },
+    {
+        "thoigian": "2022/05/21",
+        "soluongsanpham": 71,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 78710000,
+        "tongvon": 40924000
+    },
+    {
+        "thoigian": "2022/06/12",
+        "soluongsanpham": 66,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 75861000,
+        "tongvon": 45665000
+    },
+    {
+        "thoigian": "2021/12/25",
+        "soluongsanpham": 78,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 69391000,
+        "tongvon": 46989000
+    },
+    {
+        "thoigian": "2022/03/27",
+        "soluongsanpham": 80,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 69605000,
+        "tongvon": 43548000
+    },
+    {
+        "thoigian": "2022/04/30",
+        "soluongsanpham": 76,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62669000,
+        "tongvon": 44630000
+    },
+    {
+        "thoigian": "2022/09/21",
+        "soluongsanpham": 78,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 63588000,
+        "tongvon": 43295000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 64,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 61147000,
+        "tongvon": 41270000
+    },
+    {
+        "thoigian": "2022/05/09",
+        "soluongsanpham": 57,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 66193000,
+        "tongvon": 43073000
+    },
+    {
+        "thoigian": "2022/09/24",
+        "soluongsanpham": 64,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 64242000,
+        "tongvon": 49271000
+    },
+    {
+        "thoigian": "2022/10/14",
+        "soluongsanpham": 52,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 67524000,
+        "tongvon": 43577000
+    },
+    {
+        "thoigian": "2021/12/05",
+        "soluongsanpham": 64,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 73643000,
+        "tongvon": 45390000
+    },
+    {
+        "thoigian": "2022/07/19",
+        "soluongsanpham": 60,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 73463000,
+        "tongvon": 48844000
+    },
+    {
+        "thoigian": "2022/06/22",
+        "soluongsanpham": 68,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 63276000,
+        "tongvon": 48268000
+    },
+    {
+        "thoigian": "2022/03/14",
+        "soluongsanpham": 62,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 71487000,
+        "tongvon": 49507000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 50,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 67433000,
+        "tongvon": 44189000
+    },
+    {
+        "thoigian": "2022/08/24",
+        "soluongsanpham": 66,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 72552000,
+        "tongvon": 47873000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 79,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 77063000,
+        "tongvon": 48741000
+    },
+    {
+        "thoigian": "2022/05/07",
+        "soluongsanpham": 61,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 64450000,
+        "tongvon": 41822000
+    },
+    {
+        "thoigian": "2022/09/07",
+        "soluongsanpham": 53,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 72619000,
+        "tongvon": 42587000
+    },
+    {
+        "thoigian": "2022/09/29",
+        "soluongsanpham": 80,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 69621000,
+        "tongvon": 42997000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 70,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 65626000,
+        "tongvon": 41822000
+    },
+    {
+        "thoigian": "2022/10/04",
+        "soluongsanpham": 56,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78903000,
+        "tongvon": 40890000
+    },
+    {
+        "thoigian": "2022/08/06",
+        "soluongsanpham": 75,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 72349000,
+        "tongvon": 41358000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 76,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 62923000,
+        "tongvon": 40134000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 56,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 78702000,
+        "tongvon": 43167000
+    },
+    {
+        "thoigian": "2022/11/04",
+        "soluongsanpham": 54,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79074000,
+        "tongvon": 45473000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 62,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 60568000,
+        "tongvon": 48118000
+    },
+    {
+        "thoigian": "2022/06/08",
+        "soluongsanpham": 53,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 75632000,
+        "tongvon": 40698000
+    },
+    {
+        "thoigian": "2022/02/19",
+        "soluongsanpham": 54,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 72632000,
+        "tongvon": 49520000
+    },
+    {
+        "thoigian": "2021/12/28",
+        "soluongsanpham": 56,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 76762000,
+        "tongvon": 41300000
+    },
+    {
+        "thoigian": "2022/05/06",
+        "soluongsanpham": 73,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77583000,
+        "tongvon": 47314000
+    },
+    {
+        "thoigian": "2022/05/23",
+        "soluongsanpham": 78,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 64456000,
+        "tongvon": 43044000
+    },
+    {
+        "thoigian": "2021/12/04",
+        "soluongsanpham": 76,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 61376000,
+        "tongvon": 42431000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 77,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 79860000,
+        "tongvon": 49884000
+    },
+    {
+        "thoigian": "2021/12/03",
+        "soluongsanpham": 67,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79814000,
+        "tongvon": 45143000
+    },
+    {
+        "thoigian": "2021/12/03",
+        "soluongsanpham": 56,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 71632000,
+        "tongvon": 49303000
+    },
+    {
+        "thoigian": "2022/07/13",
+        "soluongsanpham": 62,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 75024000,
+        "tongvon": 41775000
+    },
+    {
+        "thoigian": "2022/02/15",
+        "soluongsanpham": 71,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 67461000,
+        "tongvon": 40914000
+    },
+    {
+        "thoigian": "2022/09/21",
+        "soluongsanpham": 53,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 74397000,
+        "tongvon": 43066000
+    },
+    {
+        "thoigian": "2022/05/04",
+        "soluongsanpham": 80,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 76769000,
+        "tongvon": 41915000
+    },
+    {
+        "thoigian": "2022/06/16",
+        "soluongsanpham": 74,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 74647000,
+        "tongvon": 46115000
+    },
+    {
+        "thoigian": "2022/10/29",
+        "soluongsanpham": 73,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77418000,
+        "tongvon": 40584000
+    },
+    {
+        "thoigian": "2022/11/10",
+        "soluongsanpham": 65,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 60117000,
+        "tongvon": 49815000
+    },
+    {
+        "thoigian": "2022/08/21",
+        "soluongsanpham": 57,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 69170000,
+        "tongvon": 47962000
+    },
+    {
+        "thoigian": "2022/07/20",
+        "soluongsanpham": 78,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 64896000,
+        "tongvon": 45557000
+    },
+    {
+        "thoigian": "2022/09/05",
+        "soluongsanpham": 52,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 79932000,
+        "tongvon": 47517000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 59,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 77264000,
+        "tongvon": 47557000
+    },
+    {
+        "thoigian": "2022/10/18",
+        "soluongsanpham": 64,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63526000,
+        "tongvon": 44791000
+    },
+    {
+        "thoigian": "2022/08/11",
+        "soluongsanpham": 70,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79458000,
+        "tongvon": 40299000
+    },
+    {
+        "thoigian": "2022/04/22",
+        "soluongsanpham": 60,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 60919000,
+        "tongvon": 42683000
+    },
+    {
+        "thoigian": "2022/08/03",
+        "soluongsanpham": 54,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 61074000,
+        "tongvon": 44567000
+    },
+    {
+        "thoigian": "2022/07/29",
+        "soluongsanpham": 77,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 71436000,
+        "tongvon": 42846000
+    },
+    {
+        "thoigian": "2022/01/30",
+        "soluongsanpham": 62,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 64582000,
+        "tongvon": 49501000
+    },
+    {
+        "thoigian": "2021/12/07",
+        "soluongsanpham": 52,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 76387000,
+        "tongvon": 40191000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 62,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 66440000,
+        "tongvon": 49885000
+    },
+    {
+        "thoigian": "2022/04/12",
+        "soluongsanpham": 64,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 68578000,
+        "tongvon": 44499000
+    },
+    {
+        "thoigian": "2022/09/07",
+        "soluongsanpham": 63,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 70876000,
+        "tongvon": 46643000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 73,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 67213000,
+        "tongvon": 40751000
+    },
+    {
+        "thoigian": "2022/05/24",
+        "soluongsanpham": 51,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 73812000,
+        "tongvon": 44493000
+    },
+    {
+        "thoigian": "2022/05/29",
+        "soluongsanpham": 57,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 65126000,
+        "tongvon": 49116000
+    },
+    {
+        "thoigian": "2022/08/10",
+        "soluongsanpham": 74,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 65924000,
+        "tongvon": 42327000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 80,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 70087000,
+        "tongvon": 43140000
+    },
+    {
+        "thoigian": "2022/09/16",
+        "soluongsanpham": 57,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79345000,
+        "tongvon": 46644000
+    },
+    {
+        "thoigian": "2022/07/12",
+        "soluongsanpham": 70,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 77791000,
+        "tongvon": 40687000
+    },
+    {
+        "thoigian": "2022/10/17",
+        "soluongsanpham": 71,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 73335000,
+        "tongvon": 46888000
+    },
+    {
+        "thoigian": "2022/06/07",
+        "soluongsanpham": 69,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 69590000,
+        "tongvon": 49976000
+    },
+    {
+        "thoigian": "2022/05/17",
+        "soluongsanpham": 72,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 79101000,
+        "tongvon": 43780000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 67,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 62336000,
+        "tongvon": 40427000
+    },
+    {
+        "thoigian": "2022/01/18",
+        "soluongsanpham": 74,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 73048000,
+        "tongvon": 45830000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 68,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78382000,
+        "tongvon": 48841000
+    },
+    {
+        "thoigian": "2022/09/25",
+        "soluongsanpham": 71,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63934000,
+        "tongvon": 41757000
+    },
+    {
+        "thoigian": "2022/06/18",
+        "soluongsanpham": 75,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 60551000,
+        "tongvon": 45147000
+    },
+    {
+        "thoigian": "2022/01/08",
+        "soluongsanpham": 69,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 68691000,
+        "tongvon": 49042000
+    },
+    {
+        "thoigian": "2022/10/30",
+        "soluongsanpham": 53,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 73599000,
+        "tongvon": 44310000
+    },
+    {
+        "thoigian": "2022/08/14",
+        "soluongsanpham": 68,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 67625000,
+        "tongvon": 48871000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 75,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 69763000,
+        "tongvon": 45866000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 61,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 67640000,
+        "tongvon": 49822000
+    },
+    {
+        "thoigian": "2022/10/09",
+        "soluongsanpham": 55,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 79741000,
+        "tongvon": 44882000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 58,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 63871000,
+        "tongvon": 46924000
+    },
+    {
+        "thoigian": "2022/04/19",
+        "soluongsanpham": 77,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 60058000,
+        "tongvon": 46866000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 51,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 66049000,
+        "tongvon": 45335000
+    },
+    {
+        "thoigian": "2022/04/29",
+        "soluongsanpham": 52,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 70879000,
+        "tongvon": 48628000
+    },
+    {
+        "thoigian": "2022/06/13",
+        "soluongsanpham": 50,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 74727000,
+        "tongvon": 41817000
+    },
+    {
+        "thoigian": "2022/07/01",
+        "soluongsanpham": 66,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 65845000,
+        "tongvon": 45081000
+    },
+    {
+        "thoigian": "2022/03/28",
+        "soluongsanpham": 57,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 73325000,
+        "tongvon": 47127000
+    },
+    {
+        "thoigian": "2021/12/09",
+        "soluongsanpham": 68,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 79948000,
+        "tongvon": 47556000
+    },
+    {
+        "thoigian": "2022/02/22",
+        "soluongsanpham": 60,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 67077000,
+        "tongvon": 43382000
+    },
+    {
+        "thoigian": "2022/04/14",
+        "soluongsanpham": 80,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 63759000,
+        "tongvon": 48940000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 50,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 69006000,
+        "tongvon": 49344000
+    },
+    {
+        "thoigian": "2021/12/15",
+        "soluongsanpham": 75,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 65313000,
+        "tongvon": 41130000
+    },
+    {
+        "thoigian": "2021/12/10",
+        "soluongsanpham": 67,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 78452000,
+        "tongvon": 43583000
+    },
+    {
+        "thoigian": "2022/05/06",
+        "soluongsanpham": 77,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 67528000,
+        "tongvon": 48977000
+    },
+    {
+        "thoigian": "2022/04/13",
+        "soluongsanpham": 78,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 71760000,
+        "tongvon": 43641000
+    },
+    {
+        "thoigian": "2022/04/17",
+        "soluongsanpham": 65,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 70203000,
+        "tongvon": 40891000
+    },
+    {
+        "thoigian": "2022/10/03",
+        "soluongsanpham": 57,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 79059000,
+        "tongvon": 43176000
+    },
+    {
+        "thoigian": "2022/04/02",
+        "soluongsanpham": 67,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77694000,
+        "tongvon": 44534000
+    },
+    {
+        "thoigian": "2022/05/14",
+        "soluongsanpham": 55,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 66023000,
+        "tongvon": 41874000
+    },
+    {
+        "thoigian": "2021/12/03",
+        "soluongsanpham": 69,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 71423000,
+        "tongvon": 48993000
+    },
+    {
+        "thoigian": "2022/10/19",
+        "soluongsanpham": 76,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 69897000,
+        "tongvon": 43501000
+    },
+    {
+        "thoigian": "2022/08/09",
+        "soluongsanpham": 77,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 63469000,
+        "tongvon": 44605000
+    },
+    {
+        "thoigian": "2022/11/03",
+        "soluongsanpham": 71,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 77219000,
+        "tongvon": 42230000
+    },
+    {
+        "thoigian": "2022/05/27",
+        "soluongsanpham": 56,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 78315000,
+        "tongvon": 47595000
+    },
+    {
+        "thoigian": "2022/07/29",
+        "soluongsanpham": 61,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 78958000,
+        "tongvon": 49521000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 77,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 72177000,
+        "tongvon": 44157000
+    },
+    {
+        "thoigian": "2022/04/08",
+        "soluongsanpham": 58,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62739000,
+        "tongvon": 42682000
+    },
+    {
+        "thoigian": "2021/12/08",
+        "soluongsanpham": 52,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 62493000,
+        "tongvon": 42083000
+    },
+    {
+        "thoigian": "2022/11/07",
+        "soluongsanpham": 73,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64820000,
+        "tongvon": 48840000
+    },
+    {
+        "thoigian": "2022/11/10",
+        "soluongsanpham": 72,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64125000,
+        "tongvon": 48549000
+    },
+    {
+        "thoigian": "2022/03/13",
+        "soluongsanpham": 55,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 73684000,
+        "tongvon": 47812000
+    },
+    {
+        "thoigian": "2022/08/07",
+        "soluongsanpham": 50,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 72960000,
+        "tongvon": 45755000
+    },
+    {
+        "thoigian": "2022/10/27",
+        "soluongsanpham": 77,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 67636000,
+        "tongvon": 45367000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 75,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 61763000,
+        "tongvon": 44543000
+    },
+    {
+        "thoigian": "2022/11/03",
+        "soluongsanpham": 68,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 75883000,
+        "tongvon": 42040000
+    },
+    {
+        "thoigian": "2022/07/04",
+        "soluongsanpham": 55,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 75543000,
+        "tongvon": 45570000
+    },
+    {
+        "thoigian": "2022/08/25",
+        "soluongsanpham": 66,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 66022000,
+        "tongvon": 44843000
+    },
+    {
+        "thoigian": "2022/06/05",
+        "soluongsanpham": 64,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 60206000,
+        "tongvon": 42448000
+    },
+    {
+        "thoigian": "2022/01/01",
+        "soluongsanpham": 56,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 62714000,
+        "tongvon": 43318000
+    },
+    {
+        "thoigian": "2022/01/11",
+        "soluongsanpham": 57,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 70502000,
+        "tongvon": 49295000
+    },
+    {
+        "thoigian": "2021/12/30",
+        "soluongsanpham": 65,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68370000,
+        "tongvon": 41517000
+    },
+    {
+        "thoigian": "2022/10/04",
+        "soluongsanpham": 76,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66032000,
+        "tongvon": 44700000
+    },
+    {
+        "thoigian": "2022/05/22",
+        "soluongsanpham": 53,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 64937000,
+        "tongvon": 44240000
+    },
+    {
+        "thoigian": "2022/06/23",
+        "soluongsanpham": 75,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 69015000,
+        "tongvon": 40155000
+    },
+    {
+        "thoigian": "2022/02/22",
+        "soluongsanpham": 51,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 68225000,
+        "tongvon": 48132000
+    },
+    {
+        "thoigian": "2022/11/01",
+        "soluongsanpham": 54,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 76634000,
+        "tongvon": 46908000
+    },
+    {
+        "thoigian": "2022/07/24",
+        "soluongsanpham": 52,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 68998000,
+        "tongvon": 49875000
+    },
+    {
+        "thoigian": "2022/08/09",
+        "soluongsanpham": 76,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 62701000,
+        "tongvon": 46494000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 51,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 75334000,
+        "tongvon": 41266000
+    },
+    {
+        "thoigian": "2022/04/28",
+        "soluongsanpham": 68,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 62240000,
+        "tongvon": 42734000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 58,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 77507000,
+        "tongvon": 44952000
+    },
+    {
+        "thoigian": "2022/05/02",
+        "soluongsanpham": 55,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 63442000,
+        "tongvon": 43348000
+    },
+    {
+        "thoigian": "2022/06/09",
+        "soluongsanpham": 73,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 72012000,
+        "tongvon": 49305000
+    },
+    {
+        "thoigian": "2022/09/26",
+        "soluongsanpham": 73,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 62429000,
+        "tongvon": 47155000
+    },
+    {
+        "thoigian": "2022/06/07",
+        "soluongsanpham": 69,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 72994000,
+        "tongvon": 49943000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 56,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 66631000,
+        "tongvon": 44712000
+    },
+    {
+        "thoigian": "2022/01/23",
+        "soluongsanpham": 64,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68867000,
+        "tongvon": 44172000
+    },
+    {
+        "thoigian": "2022/10/06",
+        "soluongsanpham": 51,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 60526000,
+        "tongvon": 42482000
+    },
+    {
+        "thoigian": "2022/07/04",
+        "soluongsanpham": 52,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 62170000,
+        "tongvon": 47380000
+    },
+    {
+        "thoigian": "2022/04/19",
+        "soluongsanpham": 57,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68531000,
+        "tongvon": 43004000
+    },
+    {
+        "thoigian": "2022/08/12",
+        "soluongsanpham": 61,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70290000,
+        "tongvon": 49248000
+    },
+    {
+        "thoigian": "2022/03/03",
+        "soluongsanpham": 57,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 66551000,
+        "tongvon": 47187000
+    },
+    {
+        "thoigian": "2022/10/30",
+        "soluongsanpham": 71,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71920000,
+        "tongvon": 46110000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 71,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 78111000,
+        "tongvon": 44716000
+    },
+    {
+        "thoigian": "2022/03/24",
+        "soluongsanpham": 57,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 64687000,
+        "tongvon": 46418000
+    },
+    {
+        "thoigian": "2022/06/12",
+        "soluongsanpham": 57,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 77974000,
+        "tongvon": 41462000
+    },
+    {
+        "thoigian": "2022/07/19",
+        "soluongsanpham": 69,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 67164000,
+        "tongvon": 43895000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 52,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79143000,
+        "tongvon": 47984000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 50,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 67968000,
+        "tongvon": 47972000
+    },
+    {
+        "thoigian": "2022/07/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 62071000,
+        "tongvon": 48175000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 67,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 64393000,
+        "tongvon": 44215000
+    },
+    {
+        "thoigian": "2021/12/29",
+        "soluongsanpham": 70,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 72315000,
+        "tongvon": 49888000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 63,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 74428000,
+        "tongvon": 40473000
+    },
+    {
+        "thoigian": "2022/09/26",
+        "soluongsanpham": 75,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 70447000,
+        "tongvon": 48057000
+    },
+    {
+        "thoigian": "2022/04/04",
+        "soluongsanpham": 56,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 60826000,
+        "tongvon": 49750000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 53,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 60738000,
+        "tongvon": 46075000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 61,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 63125000,
+        "tongvon": 42241000
+    },
+    {
+        "thoigian": "2022/05/07",
+        "soluongsanpham": 63,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 63286000,
+        "tongvon": 41839000
+    },
+    {
+        "thoigian": "2021/12/31",
+        "soluongsanpham": 66,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 68983000,
+        "tongvon": 42386000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 55,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66258000,
+        "tongvon": 42424000
+    },
+    {
+        "thoigian": "2022/11/11",
+        "soluongsanpham": 75,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 65556000,
+        "tongvon": 46570000
+    },
+    {
+        "thoigian": "2021/12/10",
+        "soluongsanpham": 53,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 75403000,
+        "tongvon": 47822000
+    },
+    {
+        "thoigian": "2022/01/24",
+        "soluongsanpham": 65,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 78134000,
+        "tongvon": 41449000
+    },
+    {
+        "thoigian": "2022/09/15",
+        "soluongsanpham": 52,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 73209000,
+        "tongvon": 44081000
+    },
+    {
+        "thoigian": "2022/11/20",
+        "soluongsanpham": 56,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 63643000,
+        "tongvon": 43353000
+    },
+    {
+        "thoigian": "2022/01/13",
+        "soluongsanpham": 55,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 70233000,
+        "tongvon": 44203000
+    },
+    {
+        "thoigian": "2022/08/04",
+        "soluongsanpham": 55,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73616000,
+        "tongvon": 48875000
+    },
+    {
+        "thoigian": "2022/08/16",
+        "soluongsanpham": 66,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 71873000,
+        "tongvon": 47529000
+    },
+    {
+        "thoigian": "2022/11/27",
+        "soluongsanpham": 59,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 78108000,
+        "tongvon": 42582000
+    },
+    {
+        "thoigian": "2022/03/10",
+        "soluongsanpham": 74,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 75946000,
+        "tongvon": 47378000
+    },
+    {
+        "thoigian": "2022/08/31",
+        "soluongsanpham": 79,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 64864000,
+        "tongvon": 49166000
+    },
+    {
+        "thoigian": "2022/07/01",
+        "soluongsanpham": 56,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 73109000,
+        "tongvon": 43098000
+    },
+    {
+        "thoigian": "2022/02/05",
+        "soluongsanpham": 74,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 68041000,
+        "tongvon": 42693000
+    },
+    {
+        "thoigian": "2022/06/13",
+        "soluongsanpham": 78,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 63432000,
+        "tongvon": 41505000
+    },
+    {
+        "thoigian": "2022/11/03",
+        "soluongsanpham": 73,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62561000,
+        "tongvon": 40885000
+    },
+    {
+        "thoigian": "2022/08/28",
+        "soluongsanpham": 59,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 74354000,
+        "tongvon": 43491000
+    },
+    {
+        "thoigian": "2021/12/09",
+        "soluongsanpham": 53,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 67876000,
+        "tongvon": 41489000
+    },
+    {
+        "thoigian": "2022/09/22",
+        "soluongsanpham": 53,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68010000,
+        "tongvon": 45140000
+    },
+    {
+        "thoigian": "2022/11/14",
+        "soluongsanpham": 50,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 76409000,
+        "tongvon": 40176000
+    },
+    {
+        "thoigian": "2022/02/05",
+        "soluongsanpham": 72,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 78146000,
+        "tongvon": 48128000
+    },
+    {
+        "thoigian": "2022/08/14",
+        "soluongsanpham": 67,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 75578000,
+        "tongvon": 46755000
+    },
+    {
+        "thoigian": "2022/02/16",
+        "soluongsanpham": 60,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 73424000,
+        "tongvon": 48290000
+    },
+    {
+        "thoigian": "2022/01/26",
+        "soluongsanpham": 56,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61314000,
+        "tongvon": 48173000
+    },
+    {
+        "thoigian": "2022/07/05",
+        "soluongsanpham": 62,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 76431000,
+        "tongvon": 47780000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 64,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 65281000,
+        "tongvon": 45488000
+    },
+    {
+        "thoigian": "2022/06/02",
+        "soluongsanpham": 76,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 72859000,
+        "tongvon": 42825000
+    },
+    {
+        "thoigian": "2022/02/09",
+        "soluongsanpham": 76,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 60173000,
+        "tongvon": 46663000
+    },
+    {
+        "thoigian": "2022/04/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 79619000,
+        "tongvon": 46480000
+    },
+    {
+        "thoigian": "2022/05/02",
+        "soluongsanpham": 74,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 61638000,
+        "tongvon": 42675000
+    },
+    {
+        "thoigian": "2022/09/17",
+        "soluongsanpham": 61,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 64254000,
+        "tongvon": 49741000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 71,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 79602000,
+        "tongvon": 45887000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 74,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 66203000,
+        "tongvon": 47207000
+    },
+    {
+        "thoigian": "2022/03/29",
+        "soluongsanpham": 76,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 60171000,
+        "tongvon": 44600000
+    },
+    {
+        "thoigian": "2022/02/05",
+        "soluongsanpham": 72,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 69907000,
+        "tongvon": 40497000
+    },
+    {
+        "thoigian": "2022/05/30",
+        "soluongsanpham": 63,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70225000,
+        "tongvon": 43756000
+    },
+    {
+        "thoigian": "2022/06/22",
+        "soluongsanpham": 57,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 64793000,
+        "tongvon": 47697000
+    },
+    {
+        "thoigian": "2022/08/17",
+        "soluongsanpham": 51,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 63461000,
+        "tongvon": 48707000
+    },
+    {
+        "thoigian": "2021/12/17",
+        "soluongsanpham": 55,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 62117000,
+        "tongvon": 46417000
+    },
+    {
+        "thoigian": "2022/11/12",
+        "soluongsanpham": 73,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 69788000,
+        "tongvon": 45982000
+    },
+    {
+        "thoigian": "2022/02/17",
+        "soluongsanpham": 62,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 70613000,
+        "tongvon": 45972000
+    },
+    {
+        "thoigian": "2022/09/29",
+        "soluongsanpham": 60,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 77031000,
+        "tongvon": 47264000
+    },
+    {
+        "thoigian": "2022/03/10",
+        "soluongsanpham": 78,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 72295000,
+        "tongvon": 44233000
+    },
+    {
+        "thoigian": "2022/02/20",
+        "soluongsanpham": 76,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 69392000,
+        "tongvon": 44334000
+    },
+    {
+        "thoigian": "2022/11/10",
+        "soluongsanpham": 72,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 71615000,
+        "tongvon": 48583000
+    },
+    {
+        "thoigian": "2022/01/19",
+        "soluongsanpham": 56,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 77466000,
+        "tongvon": 47818000
+    },
+    {
+        "thoigian": "2022/05/07",
+        "soluongsanpham": 62,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 64473000,
+        "tongvon": 49061000
+    },
+    {
+        "thoigian": "2022/06/10",
+        "soluongsanpham": 79,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 66024000,
+        "tongvon": 40250000
+    },
+    {
+        "thoigian": "2022/10/22",
+        "soluongsanpham": 61,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 66209000,
+        "tongvon": 46878000
+    },
+    {
+        "thoigian": "2022/03/01",
+        "soluongsanpham": 62,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62823000,
+        "tongvon": 44730000
+    },
+    {
+        "thoigian": "2022/07/28",
+        "soluongsanpham": 58,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 62825000,
+        "tongvon": 43388000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 74,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 78907000,
+        "tongvon": 42644000
+    },
+    {
+        "thoigian": "2022/11/25",
+        "soluongsanpham": 63,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 70698000,
+        "tongvon": 46078000
+    },
+    {
+        "thoigian": "2022/03/31",
+        "soluongsanpham": 63,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 69665000,
+        "tongvon": 45355000
+    },
+    {
+        "thoigian": "2022/09/10",
+        "soluongsanpham": 70,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 70845000,
+        "tongvon": 47323000
+    },
+    {
+        "thoigian": "2022/11/15",
+        "soluongsanpham": 54,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62298000,
+        "tongvon": 45045000
+    },
+    {
+        "thoigian": "2022/03/20",
+        "soluongsanpham": 79,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 75936000,
+        "tongvon": 49917000
+    },
+    {
+        "thoigian": "2022/09/13",
+        "soluongsanpham": 60,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 77861000,
+        "tongvon": 40555000
+    },
+    {
+        "thoigian": "2022/04/11",
+        "soluongsanpham": 61,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 72440000,
+        "tongvon": 42562000
+    },
+    {
+        "thoigian": "2022/03/01",
+        "soluongsanpham": 64,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 68805000,
+        "tongvon": 40855000
+    },
+    {
+        "thoigian": "2022/09/06",
+        "soluongsanpham": 61,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 77854000,
+        "tongvon": 40841000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 71,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 70218000,
+        "tongvon": 42617000
+    },
+    {
+        "thoigian": "2022/06/01",
+        "soluongsanpham": 75,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 70265000,
+        "tongvon": 43538000
+    },
+    {
+        "thoigian": "2022/10/31",
+        "soluongsanpham": 62,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 73111000,
+        "tongvon": 40895000
+    },
+    {
+        "thoigian": "2022/10/09",
+        "soluongsanpham": 68,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 68765000,
+        "tongvon": 40394000
+    },
+    {
+        "thoigian": "2022/02/25",
+        "soluongsanpham": 57,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 77793000,
+        "tongvon": 41558000
+    },
+    {
+        "thoigian": "2022/08/08",
+        "soluongsanpham": 70,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 72072000,
+        "tongvon": 45702000
+    },
+    {
+        "thoigian": "2022/02/10",
+        "soluongsanpham": 69,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 69011000,
+        "tongvon": 41150000
+    },
+    {
+        "thoigian": "2022/09/30",
+        "soluongsanpham": 75,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 73318000,
+        "tongvon": 41988000
+    },
+    {
+        "thoigian": "2022/03/03",
+        "soluongsanpham": 68,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 79727000,
+        "tongvon": 47463000
+    },
+    {
+        "thoigian": "2022/09/14",
+        "soluongsanpham": 62,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 78045000,
+        "tongvon": 48349000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 77,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 66177000,
+        "tongvon": 40044000
+    },
+    {
+        "thoigian": "2022/07/07",
+        "soluongsanpham": 61,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 62131000,
+        "tongvon": 44387000
+    },
+    {
+        "thoigian": "2022/03/10",
+        "soluongsanpham": 61,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 60811000,
+        "tongvon": 46174000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 52,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 66116000,
+        "tongvon": 42707000
+    },
+    {
+        "thoigian": "2022/03/09",
+        "soluongsanpham": 73,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 73627000,
+        "tongvon": 44578000
+    },
+    {
+        "thoigian": "2022/05/08",
+        "soluongsanpham": 77,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 60011000,
+        "tongvon": 42344000
+    },
+    {
+        "thoigian": "2022/10/26",
+        "soluongsanpham": 73,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 61136000,
+        "tongvon": 48054000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 61,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 75525000,
+        "tongvon": 44402000
+    },
+    {
+        "thoigian": "2022/03/23",
+        "soluongsanpham": 62,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 76609000,
+        "tongvon": 47750000
+    },
+    {
+        "thoigian": "2022/08/29",
+        "soluongsanpham": 50,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 64326000,
+        "tongvon": 45933000
+    },
+    {
+        "thoigian": "2021/12/10",
+        "soluongsanpham": 55,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 78437000,
+        "tongvon": 42920000
+    },
+    {
+        "thoigian": "2021/12/04",
+        "soluongsanpham": 77,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 79509000,
+        "tongvon": 46268000
+    },
+    {
+        "thoigian": "2021/12/03",
+        "soluongsanpham": 71,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 66686000,
+        "tongvon": 42042000
+    },
+    {
+        "thoigian": "2022/05/22",
+        "soluongsanpham": 50,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 71553000,
+        "tongvon": 42224000
+    },
+    {
+        "thoigian": "2022/09/27",
+        "soluongsanpham": 53,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 75344000,
+        "tongvon": 42618000
+    },
+    {
+        "thoigian": "2022/08/28",
+        "soluongsanpham": 73,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 69479000,
+        "tongvon": 45448000
+    },
+    {
+        "thoigian": "2022/10/28",
+        "soluongsanpham": 55,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 66854000,
+        "tongvon": 40660000
+    },
+    {
+        "thoigian": "2022/02/06",
+        "soluongsanpham": 77,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 62975000,
+        "tongvon": 44382000
+    },
+    {
+        "thoigian": "2022/01/03",
+        "soluongsanpham": 53,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 69845000,
+        "tongvon": 41053000
+    },
+    {
+        "thoigian": "2022/07/30",
+        "soluongsanpham": 69,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 75937000,
+        "tongvon": 46266000
+    },
+    {
+        "thoigian": "2022/10/17",
+        "soluongsanpham": 78,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 72236000,
+        "tongvon": 48545000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 56,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 74497000,
+        "tongvon": 41840000
+    },
+    {
+        "thoigian": "2022/07/21",
+        "soluongsanpham": 51,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 62982000,
+        "tongvon": 46438000
+    },
+    {
+        "thoigian": "2022/09/12",
+        "soluongsanpham": 74,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 69821000,
+        "tongvon": 44625000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 58,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 64514000,
+        "tongvon": 49948000
+    },
+    {
+        "thoigian": "2022/01/22",
+        "soluongsanpham": 71,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 65988000,
+        "tongvon": 44620000
+    },
+    {
+        "thoigian": "2022/01/14",
+        "soluongsanpham": 53,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 63213000,
+        "tongvon": 40411000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 54,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 77760000,
+        "tongvon": 45609000
+    },
+    {
+        "thoigian": "2022/06/08",
+        "soluongsanpham": 63,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 73421000,
+        "tongvon": 41335000
+    },
+    {
+        "thoigian": "2022/08/30",
+        "soluongsanpham": 75,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 66634000,
+        "tongvon": 47437000
+    },
+    {
+        "thoigian": "2022/07/01",
+        "soluongsanpham": 62,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 78353000,
+        "tongvon": 47045000
+    },
+    {
+        "thoigian": "2022/10/05",
+        "soluongsanpham": 54,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 70609000,
+        "tongvon": 49222000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 79,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 61137000,
+        "tongvon": 43310000
+    },
+    {
+        "thoigian": "2022/08/07",
+        "soluongsanpham": 57,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 62467000,
+        "tongvon": 45069000
+    },
+    {
+        "thoigian": "2022/04/05",
+        "soluongsanpham": 53,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 74775000,
+        "tongvon": 43311000
+    },
+    {
+        "thoigian": "2022/07/15",
+        "soluongsanpham": 66,
+        "soluongdonhang": 35,
+        "tongdoanhthu": 60158000,
+        "tongvon": 44665000
+    },
+    {
+        "thoigian": "2022/04/21",
+        "soluongsanpham": 72,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 60070000,
+        "tongvon": 48070000
+    },
+    {
+        "thoigian": "2022/04/09",
+        "soluongsanpham": 51,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 68702000,
+        "tongvon": 41944000
+    },
+    {
+        "thoigian": "2022/08/15",
+        "soluongsanpham": 72,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 79593000,
+        "tongvon": 45941000
+    },
+    {
+        "thoigian": "2022/10/26",
+        "soluongsanpham": 55,
+        "soluongdonhang": 43,
+        "tongdoanhthu": 64831000,
+        "tongvon": 46210000
+    },
+    {
+        "thoigian": "2021/12/18",
+        "soluongsanpham": 54,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 62053000,
+        "tongvon": 45219000
+    },
+    {
+        "thoigian": "2022/09/01",
+        "soluongsanpham": 59,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70422000,
+        "tongvon": 43080000
+    },
+    {
+        "thoigian": "2022/09/09",
+        "soluongsanpham": 69,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 73279000,
+        "tongvon": 40199000
+    },
+    {
+        "thoigian": "2022/03/07",
+        "soluongsanpham": 61,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 67452000,
+        "tongvon": 41695000
+    },
+    {
+        "thoigian": "2022/03/04",
+        "soluongsanpham": 76,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 62055000,
+        "tongvon": 46097000
+    },
+    {
+        "thoigian": "2022/04/19",
+        "soluongsanpham": 63,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 75699000,
+        "tongvon": 43977000
+    },
+    {
+        "thoigian": "2022/01/24",
+        "soluongsanpham": 67,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 65213000,
+        "tongvon": 45733000
+    },
+    {
+        "thoigian": "2022/04/17",
+        "soluongsanpham": 66,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 78112000,
+        "tongvon": 40282000
+    },
+    {
+        "thoigian": "2022/07/19",
+        "soluongsanpham": 70,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 61507000,
+        "tongvon": 47891000
+    },
+    {
+        "thoigian": "2022/11/28",
+        "soluongsanpham": 72,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 62908000,
+        "tongvon": 47134000
+    },
+    {
+        "thoigian": "2022/01/23",
+        "soluongsanpham": 72,
+        "soluongdonhang": 40,
+        "tongdoanhthu": 71985000,
+        "tongvon": 44753000
+    },
+    {
+        "thoigian": "2022/08/01",
+        "soluongsanpham": 59,
+        "soluongdonhang": 31,
+        "tongdoanhthu": 62596000,
+        "tongvon": 45866000
+    },
+    {
+        "thoigian": "2021/12/21",
+        "soluongsanpham": 67,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 62317000,
+        "tongvon": 49026000
+    },
+    {
+        "thoigian": "2022/01/09",
+        "soluongsanpham": 74,
+        "soluongdonhang": 32,
+        "tongdoanhthu": 74199000,
+        "tongvon": 42590000
+    },
+    {
+        "thoigian": "2021/12/18",
+        "soluongsanpham": 50,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 62627000,
+        "tongvon": 43364000
+    },
+    {
+        "thoigian": "2022/06/06",
+        "soluongsanpham": 62,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 65731000,
+        "tongvon": 49910000
+    },
+    {
+        "thoigian": "2022/11/14",
+        "soluongsanpham": 75,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 78042000,
+        "tongvon": 41758000
+    },
+    {
+        "thoigian": "2022/02/03",
+        "soluongsanpham": 54,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 61809000,
+        "tongvon": 42370000
+    },
+    {
+        "thoigian": "2022/05/31",
+        "soluongsanpham": 72,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 75839000,
+        "tongvon": 43624000
+    },
+    {
+        "thoigian": "2022/09/13",
+        "soluongsanpham": 78,
+        "soluongdonhang": 46,
+        "tongdoanhthu": 64200000,
+        "tongvon": 42967000
+    },
+    {
+        "thoigian": "2022/05/17",
+        "soluongsanpham": 64,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 64562000,
+        "tongvon": 41739000
+    },
+    {
+        "thoigian": "2022/11/28",
+        "soluongsanpham": 55,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 77960000,
+        "tongvon": 45037000
+    },
+    {
+        "thoigian": "2022/04/22",
+        "soluongsanpham": 59,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 71179000,
+        "tongvon": 43151000
+    },
+    {
+        "thoigian": "2022/06/24",
+        "soluongsanpham": 76,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 71852000,
+        "tongvon": 49537000
+    },
+    {
+        "thoigian": "2022/05/19",
+        "soluongsanpham": 77,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 71922000,
+        "tongvon": 47308000
+    },
+    {
+        "thoigian": "2022/03/07",
+        "soluongsanpham": 54,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 73665000,
+        "tongvon": 45473000
+    },
+    {
+        "thoigian": "2021/12/29",
+        "soluongsanpham": 58,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 67152000,
+        "tongvon": 43112000
+    },
+    {
+        "thoigian": "2021/12/30",
+        "soluongsanpham": 78,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 71274000,
+        "tongvon": 48061000
+    },
+    {
+        "thoigian": "2022/04/04",
+        "soluongsanpham": 72,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 70314000,
+        "tongvon": 40619000
+    },
+    {
+        "thoigian": "2022/10/26",
+        "soluongsanpham": 61,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 67069000,
+        "tongvon": 43847000
+    },
+    {
+        "thoigian": "2022/10/30",
+        "soluongsanpham": 75,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 75444000,
+        "tongvon": 46806000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 75,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 70736000,
+        "tongvon": 47863000
+    },
+    {
+        "thoigian": "2022/09/04",
+        "soluongsanpham": 54,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 75067000,
+        "tongvon": 47432000
+    },
+    {
+        "thoigian": "2022/08/21",
+        "soluongsanpham": 75,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 74322000,
+        "tongvon": 41789000
+    },
+    {
+        "thoigian": "2022/02/18",
+        "soluongsanpham": 77,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 65142000,
+        "tongvon": 44105000
+    },
+    {
+        "thoigian": "2022/01/12",
+        "soluongsanpham": 58,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 60145000,
+        "tongvon": 44708000
+    },
+    {
+        "thoigian": "2021/12/31",
+        "soluongsanpham": 52,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 62292000,
+        "tongvon": 43061000
+    },
+    {
+        "thoigian": "2022/10/08",
+        "soluongsanpham": 51,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 74956000,
+        "tongvon": 40299000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 70,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 65016000,
+        "tongvon": 49896000
+    },
+    {
+        "thoigian": "2021/12/21",
+        "soluongsanpham": 60,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 75933000,
+        "tongvon": 42955000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 78,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 74796000,
+        "tongvon": 44582000
+    },
+    {
+        "thoigian": "2022/04/14",
+        "soluongsanpham": 55,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 65131000,
+        "tongvon": 46852000
+    },
+    {
+        "thoigian": "2022/11/22",
+        "soluongsanpham": 62,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 65149000,
+        "tongvon": 41387000
+    },
+    {
+        "thoigian": "2022/10/03",
+        "soluongsanpham": 79,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 78981000,
+        "tongvon": 48315000
+    },
+    {
+        "thoigian": "2022/07/02",
+        "soluongsanpham": 58,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 61776000,
+        "tongvon": 41617000
+    },
+    {
+        "thoigian": "2022/09/06",
+        "soluongsanpham": 70,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 72065000,
+        "tongvon": 44497000
+    },
+    {
+        "thoigian": "2022/06/15",
+        "soluongsanpham": 52,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 78657000,
+        "tongvon": 42529000
+    },
+    {
+        "thoigian": "2022/05/10",
+        "soluongsanpham": 78,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 72512000,
+        "tongvon": 43695000
+    },
+    {
+        "thoigian": "2022/10/19",
+        "soluongsanpham": 79,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 66104000,
+        "tongvon": 42911000
+    },
+    {
+        "thoigian": "2022/11/11",
+        "soluongsanpham": 64,
+        "soluongdonhang": 42,
+        "tongdoanhthu": 69382000,
+        "tongvon": 41294000
+    },
+    {
+        "thoigian": "2022/02/14",
+        "soluongsanpham": 61,
+        "soluongdonhang": 37,
+        "tongdoanhthu": 60337000,
+        "tongvon": 45708000
+    },
+    {
+        "thoigian": "2022/06/20",
+        "soluongsanpham": 74,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 69881000,
+        "tongvon": 41446000
+    },
+    {
+        "thoigian": "2022/01/20",
+        "soluongsanpham": 79,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 66344000,
+        "tongvon": 43685000
+    },
+    {
+        "thoigian": "2022/11/13",
+        "soluongsanpham": 53,
+        "soluongdonhang": 30,
+        "tongdoanhthu": 72105000,
+        "tongvon": 42193000
+    },
+    {
+        "thoigian": "2022/10/22",
+        "soluongsanpham": 69,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 69120000,
+        "tongvon": 45017000
+    },
+    {
+        "thoigian": "2022/08/09",
+        "soluongsanpham": 53,
+        "soluongdonhang": 34,
+        "tongdoanhthu": 68210000,
+        "tongvon": 46983000
+    },
+    {
+        "thoigian": "2022/05/30",
+        "soluongsanpham": 64,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70890000,
+        "tongvon": 47169000
+    },
+    {
+        "thoigian": "2022/11/18",
+        "soluongsanpham": 64,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 70269000,
+        "tongvon": 43753000
+    },
+    {
+        "thoigian": "2022/10/12",
+        "soluongsanpham": 62,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 77944000,
+        "tongvon": 42785000
+    },
+    {
+        "thoigian": "2021/12/06",
+        "soluongsanpham": 66,
+        "soluongdonhang": 47,
+        "tongdoanhthu": 69217000,
+        "tongvon": 48389000
+    },
+    {
+        "thoigian": "2022/10/02",
+        "soluongsanpham": 74,
+        "soluongdonhang": 48,
+        "tongdoanhthu": 76534000,
+        "tongvon": 49412000
+    },
+    {
+        "thoigian": "2022/04/26",
+        "soluongsanpham": 80,
+        "soluongdonhang": 33,
+        "tongdoanhthu": 65523000,
+        "tongvon": 49815000
+    },
+    {
+        "thoigian": "2022/10/09",
+        "soluongsanpham": 73,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 63280000,
+        "tongvon": 44571000
+    },
+    {
+        "thoigian": "2022/03/28",
+        "soluongsanpham": 69,
+        "soluongdonhang": 50,
+        "tongdoanhthu": 64562000,
+        "tongvon": 47957000
+    },
+    {
+        "thoigian": "2022/03/12",
+        "soluongsanpham": 70,
+        "soluongdonhang": 38,
+        "tongdoanhthu": 68109000,
+        "tongvon": 42236000
+    },
+    {
+        "thoigian": "2022/11/19",
+        "soluongsanpham": 66,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 70923000,
+        "tongvon": 44712000
+    },
+    {
+        "thoigian": "2022/06/25",
+        "soluongsanpham": 54,
+        "soluongdonhang": 45,
+        "tongdoanhthu": 60961000,
+        "tongvon": 42477000
+    },
+    {
+        "thoigian": "2022/06/25",
+        "soluongsanpham": 52,
+        "soluongdonhang": 49,
+        "tongdoanhthu": 69389000,
+        "tongvon": 49556000
+    },
+    {
+        "thoigian": "2021/12/05",
+        "soluongsanpham": 67,
+        "soluongdonhang": 44,
+        "tongdoanhthu": 73949000,
+        "tongvon": 40380000
+    },
+    {
+        "thoigian": "2022/07/16",
+        "soluongsanpham": 56,
+        "soluongdonhang": 39,
+        "tongdoanhthu": 62329000,
+        "tongvon": 44518000
+    },
+    {
+        "thoigian": "2022/07/31",
+        "soluongsanpham": 78,
+        "soluongdonhang": 41,
+        "tongdoanhthu": 63271000,
+        "tongvon": 45995000
+    },
+    {
+        "thoigian": "2022/06/11",
+        "soluongsanpham": 51,
+        "soluongdonhang": 36,
+        "tongdoanhthu": 73140000,
+        "tongvon": 41623000
+    }
+]
