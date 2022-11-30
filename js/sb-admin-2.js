@@ -19,9 +19,9 @@ const form = document.querySelector("form");
 form.addEventListener(
   "submit",
   (event) => {
-    const data = new FormData(form);
+    const dataForm = new FormData(form);
     let output = "";
-    for (const entry of data) {
+    for (const entry of dataForm) {
       output = `${output}${entry[1]}`;
     }
     if (output == "incomeRadio") {
