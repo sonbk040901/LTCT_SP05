@@ -33,7 +33,7 @@ form.addEventListener(
       $("#ChartWithProduct").removeClass('d-none');
       $("#ChartWithIncome").addClass('d-none');
       $("#TableWithIncome").addClass('d-none');
-      $("#TableWithProdcut").removeClass('d-none');
+      $("#TableWithProduct").removeClass('d-none');
     }
 
     event.preventDefault();
@@ -45,6 +45,7 @@ form.addEventListener(
   $("#ChartWithProduct").addClass('d-none');
   $("#ChartWithIncome").addClass('d-none');
   $("#TableWithIncome").addClass('d-none');
+  $("#TableWithProduct").addClass('d-none');
   // Toggle the side navigation
   $("#sidebarToggle, #sidebarToggleTop").on('click', function (e) {
     $("body").toggleClass("sidebar-toggled");
