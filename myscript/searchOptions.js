@@ -8,7 +8,7 @@ class SearchOptions {
       "time-opt",
       "input-month",
       "input-year",
-      "option1"
+      "incomeRadio"
     ).map((id) => document.getElementById(id));
     this.update();
   }
