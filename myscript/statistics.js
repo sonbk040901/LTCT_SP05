@@ -29,14 +29,28 @@ class Statistics {
         return ar;
       });
     let loinhuan = doanhthu - tongvon;
-    this.dataElement[0].innerHTML = doanhthu.toLocaleString("de-DE");
-    this.dataElement[1].innerHTML = tongvon.toLocaleString("de-DE");
-    this.dataElement[2].innerHTML = loinhuan.toLocaleString("de-DE");
-
+    animateValue(
+      this.dataElement[0],
+      this.dataElement[0].innerHTML.replaceAll(".", "") - 0,
+      doanhthu,
+      1500
+    );
+    animateValue(
+      this.dataElement[1],
+      this.dataElement[1].innerHTML.replaceAll(".", "") - 0,
+      tongvon,
+      1500
+    );
+    animateValue(
+      this.dataElement[2],
+      this.dataElement[2].innerHTML.replaceAll(".", "") - 0,
+      loinhuan,
+      1500
+    );
     let d1 = [],
       d2 = [],
       d3 = [];
-    for (let index = 0; index < details.length; index++) {
+    for (let index = 1; index < details.length; index++) {
       const v = details[index];
       d1.push(index);
       d2.push(v ? v[0] : 0);
