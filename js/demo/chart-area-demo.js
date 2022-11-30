@@ -33,28 +33,24 @@ var ctx = document.getElementById("myAreaChart");
 var myChart = new Chart(ctx, {
   type: "line",
   data: {
-    labels: [
-      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
-      22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
-    ],
-    datasets: [
-      {
-        label: "Series 1", // Name the series
-        data: [...Array.from("0".repeat(31))], // Specify the data values array
-        fill: false,
-        borderColor: "#2196f3", // Add custom color border (Line)
-        backgroundColor: "#2196f3", // Add custom color background (Points and Fill)
-        borderWidth: 1, // Specify bar border width
+    labels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+      22, 23, 24, 25, 26, 27, 28, 29, 30, 31,],
+    datasets: [{
+          label: 'Doanh thu', // Name the series
+          data: [...Array.from("0".repeat(31))], // Specify the data values array
+          fill: false,
+          borderColor: '#2196f3', // Add custom color border (Line)
+          backgroundColor: '#2196f3', // Add custom color background (Points and Fill)
+          borderWidth: 1 // Specify bar border width
       },
-      {
-        label: "Series 2", // Name the series
-        data: [...Array.from("0".repeat(31))], // Specify the data values array
-        fill: false,
-        borderColor: "#4CAF50", // Add custom color border (Line)
-        backgroundColor: "#4CAF50", // Add custom color background (Points and Fill)
-        borderWidth: 1, // Specify bar border width
-      },
-    ],
+                {
+          label: 'Vốn', // Name the series
+          data: [...Array.from("0".repeat(31))], // Specify the data values array
+          fill: false,
+          borderColor: '#4CAF50', // Add custom color border (Line)
+          backgroundColor: '#4CAF50', // Add custom color background (Points and Fill)
+          borderWidth: 1 // Specify bar border width
+      }],
   },
   options: {
     responsive: true, // Instruct chart js to respond nicely.
