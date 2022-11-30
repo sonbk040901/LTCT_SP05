@@ -12,13 +12,13 @@ o.addEventListener("change", (e) => {
   }
 });
 
-let data = new Data();
+let data1 = new Data();
 let statistics = new Statistics();
 searchBtn.addEventListener("click", search);
 function search(event) {
   statistics.render();
 }
 
-data.getData().then((data) => {
+data.getData().then((data1) => {
   statistics.render();
 });
