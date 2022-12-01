@@ -43,8 +43,8 @@ form.addEventListener(
 (function ($) {
   "use strict"; // Start of use strict
   $("#ChartWithProduct").addClass('d-none');
-  $("#ChartWithIncome").addClass('d-none');
-  $("#TableWithIncome").addClass('d-none');
+  // $("#ChartWithIncome").addClass('d-none');
+  // $("#TableWithIncome").addClass('d-none');
   $("#TableWithProduct").addClass('d-none');
   // Toggle the side navigation
   $("#sidebarToggle, #sidebarToggleTop").on('click', function (e) {
