@@ -29,12 +29,12 @@ function number_format(number, decimals, dec_point, thousands_sep) {
 
 // Bar Chart Example
 var data = [42105, 20312, 35232, 17841, 20009, 4984];
-data.sort(function(a, b){return b - a});
+data.sort(function (a, b) { return b - a });
 var ctx = document.getElementById("myBarChart");
 var myBarChart = new Chart(ctx, {
   type: 'horizontalBar',
   data: {
-    labels: ["January", "February", "March", "April", "May", "June"],
+    labels: ["Áo phao", "Quần đùi", "Quần bò rách", "Áo ba lỗ", "Áo hoodile", "Áo len"],
     datasets: [{
       label: "Revenue",
       backgroundColor: "#4e73df",
@@ -105,7 +105,91 @@ var myBarChart = new Chart(ctx, {
       callbacks: {
         label: function (tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ': $' + number_format(tooltipItem.xLabel);
+          return datasetLabel + ': ' + number_format(tooltipItem.xLabel) + ' VND';
+        }
+      }
+    },
+  }
+}
+);
+var dataBarchart2 = [425, 312, 232, 141, 96, 84];
+
+var ctx1 = document.getElementById("myBarChart1");
+var myBarChart1 = new Chart(ctx1, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["Áo phao", "Quần đùi", "Quần bò rách", "Áo ba lỗ", "Áo hoodile", "Áo len"],
+    datasets: [{
+      label: "Số lượng",
+      backgroundColor: "#4e73df",
+      hoverBackgroundColor: "#2e59d9",
+      borderColor: "#4e73df",
+      data: dataBarchart2,
+    }],
+  },
+  options: {
+    maintainAspectRatio: false,
+    layout: {
+      padding: {
+        left: 10,
+        right: 25,
+        top: 25,
+        bottom: 0
+      }
+    },
+    scales: {
+      yAxes: [{
+        time: {
+          unit: 'month'
+        },
+        gridLines: {
+          display: false,
+          drawBorder: false
+        },
+        ticks: {
+          maxTicksLimit: 10
+        },
+        maxBarThickness: 25,
+      }],
+      xAxes: [{
+        ticks: {
+          min: 0,
+          max: dataBarchart2[0],
+          maxTicksLimit: 10,
+          padding: 10,
+          // Include a dollar sign in the ticks
+          callback: function (value, index, values) {
+            return '$' + number_format(value);
+          }
+        },
+        gridLines: {
+          color: "rgb(234, 236, 244)",
+          zeroLineColor: "rgb(234, 236, 244)",
+          drawBorder: false,
+          borderDash: [2],
+          zeroLineBorderDash: [2]
+        }
+      }],
+    },
+    legend: {
+      display: false
+    },
+    tooltips: {
+      titleMarginBottom: 10,
+      titleFontColor: '#6e707e',
+      titleFontSize: 14,
+      backgroundColor: "rgb(255,255,255)",
+      bodyFontColor: "#858796",
+      borderColor: '#dddfeb',
+      borderWidth: 1,
+      xPadding: 15,
+      yPadding: 15,
+      displayColors: false,
+      caretPadding: 10,
+      callbacks: {
+        label: function (tooltipItem, chart) {
+          var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
+          return datasetLabel + ': ' + number_format(tooltipItem.xLabel) + ' Cái';
         }
       }
     },
